@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-15T21:36:01.830028Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1645,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 7.8,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "alleged_mj12_documen_5d9d42",
+        "title": "Alleged Mj 12 Documen",
+        "permalink": "/the-alleged-mj-12-documents/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "title": "Air Force",
+        "permalink": "/air-force/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_afosi_fabricated_fin_ea32ee",
+        "title": "Fabricated Finding",
+        "permalink": "/fabricated-finding/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_afosi_institutional_338942",
+        "title": "AFOSI Role",
+        "permalink": "/afosi-role/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_cutler_twining_anoma_03c99a",
+        "title": "Cutler Twining",
+        "permalink": "/cutler-twining-7addcf/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_missing_afosi_report_ca9d59",
+        "title": "Missing Report",
+        "permalink": "/missing-report/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_mj12_original_docume_c1d5f1",
+        "title": "Original Document",
+        "permalink": "/original-document/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_scope_of_1988_verdic_99f20f",
+        "title": "Scope of Verdict",
+        "permalink": "/scope-of-verdict/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "title": "Anomaly Tests",
+        "permalink": "/anomaly-tests/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_cutler_absence_autho_7cf721",
+        "title": "Cutler Abroad",
+        "permalink": "/cutler-abroad-89fb2f/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_gao_mj12_origin_find_e98a3e",
+        "title": "GAO Finding",
+        "permalink": "/gao-finding/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_mj12_archival_silenc_0696e4",
+        "title": "Missing Records",
+        "permalink": "/missing-records-c2089d/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_mj12_date_format_obj_4125aa",
+        "title": "Date Formats",
+        "permalink": "/date-formats-261440/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_mj12_security_markin_b71bc8",
+        "title": "Security Marks",
+        "permalink": "/security-marks/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_truman_signature_cop_96603b",
+        "title": "Truman Signature",
+        "permalink": "/truman-signature/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "title": "Film Provenance",
+        "permalink": "/film-provenance/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_albuquerque_postmark_204247",
+        "title": "Postmark Clues",
+        "permalink": "/postmark-clues/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_missing_chain_o_5d2c03",
+        "title": "Missing Chain",
+        "permalink": "/missing-chain/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_photo_authentic_fa3f90",
+        "title": "Photo Limits",
+        "permalink": "/photo-limits/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_typewriter_comp_265358",
+        "title": "Typewriter Test",
+        "permalink": "/typewriter-test/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_shandera_1984_film_d_e0ccf2",
+        "title": "1984 Delivery",
+        "permalink": "/1984-delivery/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_truman_signature_rep_9abd26",
+        "title": "Truman Signature",
+        "permalink": "/truman-signature-b3c5a2/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "title": "Archive Provenance",
+        "permalink": "/archive-provenance/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_archival_later_inser_aaa813",
+        "title": "Later Insertion",
+        "permalink": "/later-insertion/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_archives_custody_aut_5a0638",
+        "title": "Custody vs Proof",
+        "permalink": "/custody-vs-proof/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_classification_revie_af9e3e",
+        "title": "Review Access",
+        "permalink": "/review-access/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_cutler_twining_prove_338a30",
+        "title": "Provenance Trail",
+        "permalink": "/provenance-trail/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_planted_genuine_evid_9d829a",
+        "title": "Planted but Genuine",
+        "permalink": "/planted-but-genuine/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_surrounding_records_f3f620",
+        "title": "Folder Context",
+        "permalink": "/folder-context/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "title": "Proof Needed",
+        "permalink": "/proof-needed/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_contextual_file_e08c3a",
+        "title": "File Context",
+        "permalink": "/file-context/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_cross_office_ma_3cea95",
+        "title": "Cross Matches",
+        "permalink": "/cross-matches/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_expected_paper_aec7fd",
+        "title": "Paper Trail",
+        "permalink": "/paper-trail/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_forensic_conver_58b721",
+        "title": "Forensic Match",
+        "permalink": "/forensic-match/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_government_cust_199287",
+        "title": "Custody Chain",
+        "permalink": "/custody-chain/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_independent_age_f02d39",
+        "title": "Agency Records",
+        "permalink": "/agency-records/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "title": "Control Numbers",
+        "permalink": "/control-numbers/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_cia_control_marking_cc85bb",
+        "title": "CIA Rules",
+        "permalink": "/cia-rules/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_eisenhower_control_e_ddda0a",
+        "title": "White House",
+        "permalink": "/white-house/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_missing_number_forge_d481f2",
+        "title": "Forgery Test",
+        "permalink": "/forgery-test/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_nsa_top_secret_examp_69b040",
+        "title": "NSA Examples",
+        "permalink": "/nsa-examples/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_top_secret_control_s_247121",
+        "title": "Control Sheets",
+        "permalink": "/control-sheets/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_truman_top_secret_ru_1a3bfe",
+        "title": "Truman Rules",
+        "permalink": "/truman-rules/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "title": "Core vs Later",
+        "permalink": "/core-vs-later/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_cooper_cache_fabrica_71f4cf",
+        "title": "Cooper Cache",
+        "permalink": "/cooper-cache/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_cutler_twining_anoma_03c99a",
+        "title": "Cutler Twining",
+        "permalink": "/cutler-twining-b105bd/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_friedman_split_verdi_8b4585",
+        "title": "Friedman s Verdict",
+        "permalink": "/friedman-s-verdict/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_1984_film_prove_3472da",
+        "title": "Anonymous Film",
+        "permalink": "/anonymous-film/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_source_streams_f7723a",
+        "title": "Source Streams",
+        "permalink": "/source-streams/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_som101_provenance_co_2058ff",
+        "title": "SOM 1 01",
+        "permalink": "/som-1-01-e9039d/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "title": "Cutler Abroad",
+        "permalink": "/cutler-abroad/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_cutler_delegation_si_b3d699",
+        "title": "Delegation Rules",
+        "permalink": "/delegation-rules/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_cutler_july14_travel_fd6e10",
+        "title": "Travel Timeline",
+        "permalink": "/travel-timeline/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_eisenhower_july14_ca_ce0585",
+        "title": "July 14 Calendar",
+        "permalink": "/july-14-calendar/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_james_lay_july14_com_5a8600",
+        "title": "Lay Comparison",
+        "permalink": "/lay-comparison/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_july16_missing_brief_27af71",
+        "title": "July 16 Meeting",
+        "permalink": "/july-16-meeting/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_lay_authorship_archi_0bea3f",
+        "title": "Archive Gap",
+        "permalink": "/archive-gap/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "title": "Cutler Twining",
+        "permalink": "/cutler-twining/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "title": "Custody",
+        "permalink": "/custody/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_classification_marki_edfa26",
+        "title": "Security Marking",
+        "permalink": "/security-marking/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_cutler_trip_authorsh_46327b",
+        "title": "Cutler Abroad",
+        "permalink": "/cutler-abroad-d03030/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_filing_location_anom_903df1",
+        "title": "Filing Anomaly",
+        "permalink": "/filing-anomaly/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_paper_watermark_disp_525b43",
+        "title": "Paper Dispute",
+        "permalink": "/paper-dispute/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_possible_archive_ins_147ae4",
+        "title": "Later Insertion",
+        "permalink": "/later-insertion-ef279f/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "title": "The Eisenhower Briefing Document",
+        "permalink": "/the-eisenhower-briefing-document/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_eisenhower_schedule_9e669e",
+        "title": "Eisenhower Schedule",
+        "permalink": "/eisenhower-schedule/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_federal_archive_sear_68c0b8",
+        "title": "Archive Searches",
+        "permalink": "/archive-searches/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_gao_mj12_review_777f8e",
+        "title": "GAO Review",
+        "permalink": "/gao-review/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_missing_original_pro_028ea7",
+        "title": "Missing Original",
+        "permalink": "/missing-original/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_supporters_authentic_4c41c5",
+        "title": "Supporters Case",
+        "permalink": "/supporters-case/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_truman_memo_dependen_e1aa73",
+        "title": "Truman Memo",
+        "permalink": "/truman-memo-6a3de5/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "title": "FBI Findings",
+        "permalink": "/fbi-findings/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_air_force_mj12_verdi_781480",
+        "title": "Air Force Verdict",
+        "permalink": "/air-force-verdict/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_dallas_fbi_mj12_resp_01ea41",
+        "title": "Dallas File",
+        "permalink": "/dallas-file/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_file_limits_9ba580",
+        "title": "Limits",
+        "permalink": "/limits/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_involvement_999a82",
+        "title": "Why FBI Got",
+        "permalink": "/why-fbi-got/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_federal_mj12_archive_eb888c",
+        "title": "Archive Cross Check",
+        "permalink": "/archive-cross-check/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_mj12_1991_recheck_cb668d",
+        "title": "1991 Recheck",
+        "permalink": "/1991-recheck/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "title": "GAO Search",
+        "permalink": "/gao-search/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_custody_vs_authentic_545101",
+        "title": "Custody vs Proof",
+        "permalink": "/custody-vs-proof-378742/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_cutler_twining_memo_b4b4f6",
+        "title": "Cutler Memo",
+        "permalink": "/cutler-memo/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_gao_provenance_test_17e3c5",
+        "title": "Provenance Test",
+        "permalink": "/provenance-test/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_missing_roswell_reco_3da55d",
+        "title": "Missing Records",
+        "permalink": "/missing-records-1a9893/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_mj_twelve_message_56461e",
+        "title": "MJ Twelve",
+        "permalink": "/mj-twelve/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_presidential_library_c722dd",
+        "title": "Library Searches",
+        "permalink": "/library-searches/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "title": "James Lay Theory",
+        "permalink": "/james-lay-theory/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_eisenhower_lay_phone_1b7966",
+        "title": "Phone Call Claim",
+        "permalink": "/phone-call-claim/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_lay_cutler_working_r_c0140c",
+        "title": "Lay and Cutler",
+        "permalink": "/lay-and-cutler/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_lay_july16_delegatio_16dab7",
+        "title": "July 16 Update",
+        "permalink": "/july-16-update/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_proof_for_lay_author_c0a2cd",
+        "title": "Proof Standard",
+        "permalink": "/proof-standard/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_routine_note_cutler_a40a89",
+        "title": "Scheduling Note",
+        "permalink": "/scheduling-note/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_unsigned_memo_lay_th_e24031",
+        "title": "Unsigned Memo",
+        "permalink": "/unsigned-memo/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "title": "Later Forgeries",
+        "permalink": "/later-forgeries/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_authorship_test_adb7cd",
+        "title": "Authorship Tests",
+        "permalink": "/authorship-tests/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_false_corrobora_e1c771",
+        "title": "False Corroboration",
+        "permalink": "/false-corroboration/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_forgery_templat_2c4df4",
+        "title": "Forgery Templates",
+        "permalink": "/forgery-templates/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_guilt_by_associ_20def5",
+        "title": "Guilt by Association",
+        "permalink": "/guilt-by-association/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_period_accuracy_c5bdc8",
+        "title": "Period Accuracy",
+        "permalink": "/period-accuracy/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_photocopy_probl_bd86ef",
+        "title": "Photocopy Problem",
+        "permalink": "/photocopy-problem/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "title": "The Twelve",
+        "permalink": "/the-twelve/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_bronk_hunsaker_berkn_66c710",
+        "title": "Science Team",
+        "permalink": "/science-team/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_bush_september_1947_303bf3",
+        "title": "Bush Dates",
+        "permalink": "/bush-dates/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_forrestal_replacemen_238676",
+        "title": "Forrestal",
+        "permalink": "/forrestal/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_gordon_gray_defense_d1bbb5",
+        "title": "Gordon Gray",
+        "permalink": "/gordon-gray/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_hillenkoetter_souers_0cdf5c",
+        "title": "Intel Chiefs",
+        "permalink": "/intel-chiefs/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "title": "Twining",
+        "permalink": "/twining/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+        "title": "Missing Records",
+        "permalink": "/missing-records/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_cutler_travel_memo_c_1b6c31",
+        "title": "Cutler Travel",
+        "permalink": "/cutler-travel/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_cutler_twining_orpha_00d8f5",
+        "title": "Orphan Memo",
+        "permalink": "/orphan-memo/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_eisenhower_mj12_meet_1aebcb",
+        "title": "Meeting Gap",
+        "permalink": "/meeting-gap/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_gao_mj12_records_fin_79fb1c",
+        "title": "GAO Findings",
+        "permalink": "/gao-findings/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_national_archives_mj_737dbb",
+        "title": "Archives Search",
+        "permalink": "/archives-search/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_nsc_missing_mj12_ref_c2bc80",
+        "title": "NSC Records",
+        "permalink": "/nsc-records/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+        "title": "Chain of Custody",
+        "permalink": "/chain-of-custody/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_archives_custody_aut_5a0638",
+        "title": "Custody vs Proof",
+        "permalink": "/custody-vs-proof-73cb79/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cia_mj12_record_sear_da2910",
+        "title": "CIA Searches",
+        "permalink": "/cia-searches/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cutler_travel_record_f6bb15",
+        "title": "Cutler Abroad",
+        "permalink": "/cutler-abroad-5e0264/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cutler_twining_filin_9e2023",
+        "title": "Filing Anomalies",
+        "permalink": "/filing-anomalies/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_fbi_1988_mj12_ac0b14",
+        "title": "FBI 1988",
+        "permalink": "/fbi-1988/"
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_gao_1995_mj12_review_71b77d",
+        "title": "GAO Review",
+        "permalink": "/gao-review-7a03dd/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "title": "Air Force",
+        "permalink": "/air-force/",
+        "inline_inbound_count": 156
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "title": "Twining",
+        "permalink": "/twining/",
+        "inline_inbound_count": 139
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "title": "Friedman s Case",
+        "permalink": "/friedman-s-case/",
+        "inline_inbound_count": 114
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "title": "Custody",
+        "permalink": "/custody/",
+        "inline_inbound_count": 106
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_eisenhower_control_e_ddda0a",
+        "title": "White House",
+        "permalink": "/white-house/",
+        "inline_inbound_count": 100
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "title": "Register Numbers",
+        "permalink": "/register-numbers/",
+        "inline_inbound_count": 85
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_presidential_library_c722dd",
+        "title": "Library Searches",
+        "permalink": "/library-searches/",
+        "inline_inbound_count": 77
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42",
+        "title": "Alleged Mj 12 Documen",
+        "permalink": "/the-alleged-mj-12-documents/",
+        "inline_inbound_count": 74
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_forrestal_replacemen_238676",
+        "title": "Forrestal",
+        "permalink": "/forrestal/",
+        "inline_inbound_count": 47
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_cutler_twining_memo_b4b4f6",
+        "title": "Cutler Memo",
+        "permalink": "/cutler-memo/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "title": "The Eisenhower Briefing Document",
+        "permalink": "/the-eisenhower-briefing-document/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_hillenkoetter_date_v_883e81",
+        "title": "Hillenkoetter",
+        "permalink": "/hillenkoetter/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_missing_register_num_36da99",
+        "title": "Register Number",
+        "permalink": "/register-number/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_restricted_after_195_9986ce",
+        "title": "Restricted",
+        "permalink": "/restricted/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_file_limits_9ba580",
+        "title": "Limits",
+        "permalink": "/limits/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_mj_twelve_message_56461e",
+        "title": "MJ Twelve",
+        "permalink": "/mj-twelve/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_nsc_missing_mj12_ref_c2bc80",
+        "title": "NSC Records",
+        "permalink": "/nsc-records/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_eagle_watermark_disp_5e6100",
+        "title": "Watermark",
+        "permalink": "/watermark/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_missing_white_house_579b9e",
+        "title": "Letterhead",
+        "permalink": "/letterhead/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_t4_1846_number_confu_803ba7",
+        "title": "T4 1846",
+        "permalink": "/t4-1846/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_mj12_original_docume_c1d5f1",
+        "title": "Original Document",
+        "permalink": "/original-document/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_1984_film_prove_3472da",
+        "title": "Anonymous Film",
+        "permalink": "/anonymous-film/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_top_secret_control_s_247121",
+        "title": "Control Sheets",
+        "permalink": "/control-sheets/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_cutler_twining_paper_fc6338",
+        "title": "Paper Test",
+        "permalink": "/paper-test/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_ribbon_vs_carbon_cop_1c2ea4",
+        "title": "Ribbon Copy",
+        "permalink": "/ribbon-copy/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_missing_chain_o_5d2c03",
+        "title": "Missing Chain",
+        "permalink": "/missing-chain/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "title": "Control Numbers",
+        "permalink": "/control-numbers/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_surrounding_records_f3f620",
+        "title": "Folder Context",
+        "permalink": "/folder-context/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+        "title": "Cooper Papers",
+        "permalink": "/cooper-papers/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_independent_age_f02d39",
+        "title": "Agency Records",
+        "permalink": "/agency-records/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_restricted_data_exce_0fcc7e",
+        "title": "Restricted Data",
+        "permalink": "/restricted-data/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cantwheel_provenance_50036b",
+        "title": "Cantwheel",
+        "permalink": "/cantwheel/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_routine_note_cutler_a40a89",
+        "title": "Scheduling Note",
+        "permalink": "/scheduling-note/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_albuquerque_postmark_204247",
+        "title": "Postmark Clues",
+        "permalink": "/postmark-clues/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_missing_number_forge_d481f2",
+        "title": "Forgery Test",
+        "permalink": "/forgery-test/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "title": "The Twelve",
+        "permalink": "/the-twelve/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_mj12_leading_zero_da_b9033e",
+        "title": "Leading Zeros",
+        "permalink": "/leading-zeros/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_period_detail_060208",
+        "title": "Period Details",
+        "permalink": "/period-details/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_burned_memo_source_c_16595e",
+        "title": "Burned Memo",
+        "permalink": "/burned-memo/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "title": "Cutler Abroad",
+        "permalink": "/cutler-abroad/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_index",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "parent"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_cutler_delegation_si_b3d699",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_cutler_july14_travel_fd6e10",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_eisenhower_july14_ca_ce0585",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_index",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_james_lay_july14_com_5a8600",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_july16_missing_brief_27af71",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_lay_authorship_archi_0bea3f",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "ancestor"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "parent"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_eisenhower_schedule_9e669e",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_federal_archive_sear_68c0b8",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_gao_mj12_review_777f8e",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_index",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_missing_original_pro_028ea7",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_supporters_authentic_4c41c5",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_truman_memo_dependen_e1aa73",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "ancestor"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "parent"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_air_force_mj12_verdi_781480",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_dallas_fbi_mj12_resp_01ea41",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_file_limits_9ba580",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_involvement_999a82",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_federal_mj12_archive_eb888c",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_index",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_mj12_1991_recheck_cb668d",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "ancestor"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "parent"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_air_force_document_c_6d757d",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_index",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_lost_control_sheet_h_8f7605",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_misfiling_vs_later_i_0e04ab",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_nara_filing_system_m_6e48cf",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_t4_1846_number_confu_803ba7",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_top_secret_rules_195_603b84",
+        "type": "child"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "ancestor"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "parent"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+        "type": "sibling"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_forrestal_replacemen_238676",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_mj_twelve_message_56461e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_cutler_travel_memo_c_1b6c31",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_eisenhower_control_e_ddda0a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_routine_note_cutler_a40a89",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_lay_cutler_working_r_c0140c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_1984_film_prove_3472da",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_forrestal_replacemen_238676",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_hillenkoetter_date_v_883e81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_eisenhower_control_e_ddda0a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_cutler_twining_memo_b4b4f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_presidential_library_c722dd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_missing_register_num_36da99",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_t4_1846_number_confu_803ba7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_mj12_original_docume_c1d5f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_missing_register_num_36da99",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_restricted_after_195_9986ce",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_presidential_library_c722dd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_forrestal_replacemen_238676",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_albuquerque_postmark_204247",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+        "to": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_trix_film_fcaeed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_planted_genuine_evid_9d829a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "to": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_independent_age_f02d39",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_cia_control_marking_cc85bb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_top_secret_control_s_247121",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_eisenhower_control_e_ddda0a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_1984_film_prove_3472da",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_cooper_cache_fabrica_71f4cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+        "to": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_source_streams_f7723a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_top_secret_control_s_247121",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_presidential_library_c722dd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_presidential_library_c722dd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_mj_twelve_message_56461e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_cutler_twining_memo_b4b4f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_missing_white_house_579b9e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_routine_note_cutler_a40a89",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+        "to": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_eisenhower_control_e_ddda0a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cantwheel_provenance_50036b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_period_accuracy_c5bdc8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+        "to": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cutler_twining_filin_9e2023",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "to": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+        "type": "inline_internal"
+      },
+      {
+        "from": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+        "to": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_hillenkoetter_date_v_883e81",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

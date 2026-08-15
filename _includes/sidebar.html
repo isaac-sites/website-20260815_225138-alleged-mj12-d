@@ -1,0 +1,73 @@
+{% assign ui = page.ui_strings | default: site.ui_strings %}
+{% assign tree_level = include.level | default: 1 %}
+{% assign sidebar_expanded_urls = page.sidebar_expanded_urls | default: "" %}
+{% if include.items and include.items.size > 0 %}
+{% assign sidebar_items = include.items %}
+{% assign single_root_home_mode = false %}
+{% if tree_level == 1 and sidebar_items.size == 1 %}
+{% assign single_root_home_mode = true %}
+{% endif %}
+{% if include.show_tools %}
+<div class="sidebar-tree-actions sidebar-tree-actions-top" data-sidebar-tree-actions-top hidden>
+  <button class="sidebar-tree-btn" type="button" data-sidebar-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+  <button class="sidebar-tree-btn" type="button" data-sidebar-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+</div>
+{% endif %}
+<nav class="sidebar-nav{% if single_root_home_mode %} is-single-root-home{% endif %}" aria-label="{{ ui.topic_tree_navigation | default: 'Topic tree navigation' | escape }}" data-sidebar-nav{% if single_root_home_mode %} data-sidebar-single-root-home{% endif %}>
+  <ul class="sidebar-list" data-sidebar-level="{{ tree_level }}">
+    {% if single_root_home_mode %}
+    <li class="sidebar-item sidebar-home-item" data-sidebar-level="{{ tree_level }}">
+      <a class="sidebar-link sidebar-link-home{% if page.home or page.url == '/' %} is-current{% endif %}" href="{{ '/' | relative_url }}" title="{{ ui.home | default: 'Home' | escape }}" aria-label="{{ ui.home | default: 'Home' | escape }}" data-sidebar-search="home landing page"{% if page.home or page.url == '/' %} aria-current="page"{% endif %}>{{ ui.home | default: 'Home' }}</a>
+    </li>
+    {% endif %}
+    {% for item in sidebar_items %}
+    {% assign sidebar_full = item.title_full | default: item.title %}
+    {% assign has_children = false %}
+    {% if item.children %}
+    {% if item.children.size > 0 %}
+    {% assign has_children = true %}
+    {% endif %}
+    {% endif %}
+    {% assign is_fixed_home_root = false %}
+    {% if single_root_home_mode and forloop.first %}
+    {% assign is_fixed_home_root = true %}
+    {% endif %}
+    {% assign is_expanded = false %}
+    {% if is_fixed_home_root or page.url == item.url or sidebar_expanded_urls contains item.url %}
+    {% assign is_expanded = true %}
+    {% endif %}
+    <li class="sidebar-item{% if has_children %} has-children{% if is_expanded %} is-expanded{% else %} is-collapsed{% endif %}{% endif %}{% if is_fixed_home_root %} is-fixed-root-home{% endif %}" data-sidebar-level="{{ tree_level }}"{% if is_fixed_home_root %} data-sidebar-lock-open data-sidebar-home-root{% endif %}>
+      {% if has_children and is_fixed_home_root == false %}
+      <button class="sidebar-toggle" type="button" data-sidebar-toggle aria-expanded="{% if is_expanded %}true{% else %}false{% endif %}" aria-label="{% if is_expanded %}{{ ui.collapse_section | default: 'Collapse section' | escape }}{% else %}{{ ui.expand_section | default: 'Expand section' | escape }}{% endif %}: {{ sidebar_full | escape }}" title="{% if is_expanded %}{{ ui.collapse_section | default: 'Collapse section' | escape }}{% else %}{{ ui.expand_section | default: 'Expand section' | escape }}{% endif %}">{% if is_expanded %}-{% else %}+{% endif %}</button>
+      {% endif %}
+      <a class="sidebar-link{% if page.url == item.url %} is-current{% endif %}{% if is_fixed_home_root %} sidebar-link-root-topic{% endif %}" href="{{ item.url | relative_url }}" title="{{ sidebar_full | escape }}" aria-label="{{ ui.open_report | default: 'Open report' | escape }}: {{ sidebar_full | escape }}" data-sidebar-search="{{ item.title | downcase }} {{ sidebar_full | downcase }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | default: item.title_full }}</a>
+      {% if has_children %}
+        {% assign next_level = tree_level | plus: 1 %}
+        <div class="sidebar-children" data-sidebar-children>
+          {% include sidebar.html items=item.children level=next_level %}
+        </div>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+{% if include.show_tools %}
+<div class="sidebar-tools" role="search" aria-label="{{ ui.search | default: 'Search' | escape }}">
+  <label class="sidebar-tools-label" for="sidebar-filter">{{ ui.search | default: 'Search' }}</label>
+  <div class="sidebar-search-tabs" role="tablist" aria-label="{{ ui.search | default: 'Search' | escape }}" data-sidebar-search-tabs>
+    <button class="sidebar-search-tab is-active" type="button" role="tab" aria-selected="true" data-sidebar-search-tab="all">{{ ui.search_all_pages | default: 'All pages' }}</button>
+    <button class="sidebar-search-tab" type="button" role="tab" aria-selected="false" tabindex="-1" data-sidebar-search-tab="page">{{ ui.search_this_page | default: 'This page' }}</button>
+  </div>
+  <div class="sidebar-filter-row">
+    <input id="sidebar-filter" class="sidebar-filter" type="search" placeholder="{{ ui.search_site_placeholder | default: 'Search title, summary, or page text...' | escape }}" data-sidebar-filter aria-controls="sidebar-filter-results">
+    <button class="sidebar-filter-clear sidebar-tree-btn" type="button" data-sidebar-filter-clear hidden>{{ ui.clear | default: 'Clear' }}</button>
+  </div>
+  <div id="sidebar-filter-results" class="sidebar-filter-results" data-sidebar-filter-results hidden></div>
+  <p class="sidebar-filter-status" data-sidebar-filter-status aria-live="polite"></p>
+</div>
+<div class="sidebar-tree-actions">
+  <button class="sidebar-tree-btn" type="button" data-sidebar-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+  <button class="sidebar-tree-btn" type="button" data-sidebar-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+</div>
+{% endif %}
+{% endif %}

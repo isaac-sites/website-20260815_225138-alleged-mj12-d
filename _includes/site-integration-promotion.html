@@ -1,0 +1,15 @@
+{% assign integration_tools = site.data.site_integrations.tools %}
+{% if integration_tools %}
+{% for tool in integration_tools %}
+{% if tool.homepage_promotion %}
+<section class="site-integration-promotion" aria-labelledby="site-integration-{{ tool.id | escape }}-title">
+  <div class="site-integration-promotion-copy">
+    <p class="site-integration-kicker">Interactive research tool</p>
+    <h2 id="site-integration-{{ tool.id | escape }}-title">{{ tool.title | escape }}</h2>
+    <p>{{ tool.description | escape }}</p>
+  </div>
+  <a class="nav-pill site-integration-promotion-action" href="{{ tool.route | relative_url }}">{{ tool.nav_label | escape }}</a>
+</section>
+{% endif %}
+{% endfor %}
+{% endif %}

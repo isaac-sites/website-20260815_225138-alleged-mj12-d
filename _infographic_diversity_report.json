@@ -1,0 +1,5081 @@
+{
+  "generated_at_utc": "2026-08-15T21:36:01.197273Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 2,
+    "warning_reason_counts": {
+      "single_reader_role": 2
+    }
+  },
+  "pages": [
+    {
+      "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_photocopy_probl_bd86ef",
+      "title": "Why Photocopies Make MJ 12 Harder to Authenticate",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Forensic Evidence Lost in Photocopies",
+        "MJ 12 Document Authentication Methods",
+        "The Marshall Forgery Mechanism"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_truman_corona_underw_acc052",
+      "title": "Was the Truman Memo Typed on a Later Machine?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Competing Typewriter Identification Claims",
+        "Evidence Limitations of MJ 12 Documents",
+        "Expert Testimony on Truman Memorandum"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42",
+      "title": "The Alleged MJ 12 Documents",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Provenance of MJ 12 Documents",
+        "Evidence for MJ 12 Authenticity",
+        "Government Findings on MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750",
+      "title": "Why the Air Force Called the MJ 12 Document Fake",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FBI and AFOSI MJ 12 Investigation Time line",
+        "Evidence Gaps in MJ 12 Documentation",
+        "Archival Discrepancies in MJ 12 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_afosi_fabricated_fin_ea32ee",
+      "title": "What Did AFOSI Actually Establish About MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FBI and AFOSI 1988 Investigation Time line",
+        "Evidence Limits of the 1988 Finding",
+        "Institutional Findings on Majestic 12 Material"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_afosi_institutional_338942",
+      "title": "Why Did AFOSI's MJ 12 Verdict Carry Weight?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "FBI MJ 12 Investigation Time line",
+        "Public Denial vs Investigative Finding",
+        "AFOSI Institutional Design Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_cutler_twining_anoma_03c99a",
+      "title": "Why Is the Cutler Twining Memo So Controversial?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler Twining Memorandum Archival Anomalies",
+        "MJ 12 Document Authentication Perspectives",
+        "Verification Failures of the 1954 Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_missing_afosi_report_ca9d59",
+      "title": "Why Is AFOSI's Full MJ 12 Reasoning Missing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "FBI Investigation of MJ 12 Documents",
+        "Auditability of MJ 12 Records",
+        "Missing Forensic Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_mj12_original_docume_c1d5f1",
+      "title": "Did AFOSI Ever Examine an Original MJ 12 Paper?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "1988 MJ 12 Investigation Time line",
+        "Copy vs. Original Authentication",
+        "MJ 12 Evidence Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_scope_of_1988_verdic_99f20f",
+      "title": "Did the 1988 Verdict Debunk Every MJ 12 Document?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Majestic 12 Document Analysis",
+        "Scope of the 1988 AFOSI Finding",
+        "Anomalies in the Cutler Twining Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03",
+      "title": "Which MJ 12 Anomalies Would Actually Prove Forgery?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "MJ 12 Document Anomaly Hierarchy",
+        "Cutler Twining Memorandum Evidence Tests",
+        "Falsification Testing Methodology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_cutler_absence_autho_7cf721",
+      "title": "Does Cutler's Absence Rule Out the MJ 12 Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Robert Cutler's July 1954 Itinerary",
+        "MJ 12 Memorandum Authorship Theories",
+        "NSC Administrative Evidence Chain"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_gao_mj12_origin_find_e98a3e",
+      "title": "What Did the GAO Finding Actually Establish About MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GAO MJ 12 Provenance Investigation",
+        "Provenance vs. Visual Appearance",
+        "Institutional Findings on MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_mj12_archival_silenc_0696e4",
+      "title": "How Much Does MJ 12's Missing Paper Trail Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NARA Archival Search Methodology",
+        "MJ 12 Archival Evidence Analysis",
+        "Missing Administrative Footprints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_mj12_date_format_obj_4125aa",
+      "title": "Can an Odd Date Format Really Expose MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "chronology"
+      ],
+      "titles": [
+        "MJ 12 Date Format Interpretations",
+        "CIA Document Date Variations",
+        "Historical Document Authentication Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_mj12_security_markin_b71bc8",
+      "title": "Can a Security Marking Date an MJ 12 Forgery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Authenticating the Cutler Twining Memorandum",
+        "Security Marking Interpretations",
+        "National Archives MJ 12 Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_truman_signature_cop_96603b",
+      "title": "Was Truman's MJ 12 Signature Copied From Another Letter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Forensic Analysis of Truman Signatures",
+        "Interpretations of Signature Identity",
+        "Evidence of Document Falsification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+      "title": "Who Sent the Original MJ 12 Film?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1984 MJ 12 Film Delivery Path",
+        "Photographic Evidence vs. Physical Originals",
+        "Institutional Search Results for MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_albuquerque_postmark_204247",
+      "title": "What Does the Albuquerque Postmark Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "MJ 12 Film Transmission Time line",
+        "Albuquerque Postmark Interpretations",
+        "Evidential Limits of the Postmark"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_missing_chain_o_5d2c03",
+      "title": "Where Does the MJ 12 Chain of Custody Break?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "MJ 12 Film Chain of Custody",
+        "Content vs. Provenance Distinction",
+        "Missing Links in MJ 12 Custody"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_photo_authentic_fa3f90",
+      "title": "Can Photographs Ever Authenticate the MJ 12 Papers?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_genealogy",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "process"
+      ],
+      "titles": [
+        "Image Evidence vs. Object Evidence",
+        "Forensic Tests for Original Documents",
+        "MJ 12 Document Authentication Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_typewriter_comp_265358",
+      "title": "Does a Period Typewriter Make MJ 12 Authentic?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "MJ 12 Typography Analysis Claims",
+        "Forensic Document Examination Workflow",
+        "MJ 12 Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_shandera_1984_film_d_e0ccf2",
+      "title": "Who Sent Shandera the MJ 12 Film?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1984 MJ 12 Film Delivery Path",
+        "Interpretations of the Albuquerque Postmark",
+        "Evidence Limits of the 1984 Parcel"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_truman_signature_rep_9abd26",
+      "title": "Was Truman's MJ 12 Signature Photographically Copied?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Truman Signature Authenticity Interpretations",
+        "Alleged Signature Fabrication Key Stages",
+        "Forensic Evidence of Copying"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+      "title": "Does an Archive Location Prove a Document Is Genuine?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Cutler Twining Memo Archival Chain",
+        "MJ 12 Document Insertion Theories",
+        "Archival Anomalies in Record Group 341"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_archival_later_inser_aaa813",
+      "title": "How a Planted Document Can Look Archival",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Federal Records Lifecycle Stages",
+        "Cutler Twining Memo Provenance Theories",
+        "Evidence Gaps in Record Group 341"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_archives_custody_aut_5a0638",
+      "title": "Why National Archives Custody Does Not Prove Authenticity",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "process"
+      ],
+      "titles": [
+        "National Archives Custody vs. Authentication",
+        "Anomalies in the Cutler Twining Memo",
+        "Archival Verification Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_classification_revie_af9e3e",
+      "title": "Could Classification Review Have Changed the File?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Cutler Twining Memo Archival Time line",
+        "Provenance Scenarios for MJ 12 Memo",
+        "Evidence Gaps in Record Group 341"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_cutler_twining_prove_338a30",
+      "title": "What Evidence Could Actually Prove the Memo's Provenance?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Establishing Cutler Twining Archival Provenance",
+        "Provenance Evidence vs. Physical Presence",
+        "Types of Corroborating Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_planted_genuine_evid_9d829a",
+      "title": "The Hidden Cost of the Planted but Genuine Theory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Cutler Twining Memo Discovery Trail",
+        "Planted But Genuine Theory Trade offs",
+        "Archival Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_surrounding_records_f3f620",
+      "title": "Why One Archival Sheet Is Not Enough",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Archival Verification of MJ 12 Records",
+        "Archival Evidence vs. Document Claims",
+        "Indicators of Genuine Archival Provenance"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9",
+      "title": "What Evidence Would Actually Authenticate MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "MJ 12 Document Authentication Requirements",
+        "MJ 12 Evidence vs. Archival Standards",
+        "Forensic Examination of MJ 12 Materials"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_contextual_file_e08c3a",
+      "title": "Would an MJ 12 Document Fit Its Own Government File?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Archival Authentication of MJ 12 Records",
+        "Cutler Twining Memo Contextual Failures",
+        "Evidence of Administrative Infrastructure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_cross_office_ma_3cea95",
+      "title": "Could One MJ 12 Event Be Confirmed From Several Archives?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Chain for MJ 12 Authentication",
+        "MJ 12 Claims vs. Archival Reality",
+        "Hierarchy of Documentary Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_expected_paper_aec7fd",
+      "title": "What Paper Trail Should a Real MJ 12 Program Leave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Administrative Residue of Secret Programs",
+        "MJ 12 Evidence vs. Bureaucratic Reality",
+        "Types of Corroborating Administrative Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_forensic_conver_58b721",
+      "title": "How Much Physical Consistency Would an MJ 12 Original Need?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Forensic Document Examination Workflow",
+        "Period Compatibility vs. Official Provenance",
+        "Forensic Indicators for MJ 12 Documents"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_government_cust_199287",
+      "title": "What Proven Government Custody Would Change for MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Federal Records Custody Chain",
+        "MJ 12 Document Authenticity Models",
+        "NARA Provenance Identifiers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_independent_age_f02d39",
+      "title": "What Independent Records Would Make MJ 12 Harder to Dismiss?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Path to Institutional Corroboration",
+        "MJ 12 Evidence vs. Project Blue Book",
+        "Agencies Lacking MJ 12 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+      "title": "Do Missing Control Numbers Prove MJ 12 Was Forged?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "MJ 12 Control Number Authenticity Claims",
+        "Factors for Document Authentication",
+        "Cutler Twining vs. Other MJ 12 Papers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.182,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_cia_control_marking_cc85bb",
+      "title": "How Strict Were CIA Top Secret Markings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "CIA Top Secret Correspondence Workflow",
+        "CIA vs. General Government Standards",
+        "MJ 12 Authenticity Testing Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_eisenhower_control_e_ddda0a",
+      "title": "Why Some Eisenhower Top Secret Memos Had No Number",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Goodpaster Memorandum Key Stages",
+        "Top Secret Document Authentication Rules",
+        "Eisenhower White House Record Streams"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_missing_number_forge_d481f2",
+      "title": "Does a Missing Control Number Prove Forgery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Executive Order 10501 Accountability Flow",
+        "Evaluating Missing Control Numbers",
+        "CIA Top Secret Mechanics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_nsa_top_secret_examp_69b040",
+      "title": "What Real 1950 s Top Secret Control Looked Like",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NSA Top Secret Accountability Workflow",
+        "NSA vs. CIA Security Markings",
+        "NSA Document Accountability Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_top_secret_control_s_247121",
+      "title": "Could the Missing Number Have Been on Another Sheet?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "CIA Form 38 13 Lifecycle",
+        "Cutler–Twining Memo Interpretations",
+        "Components of Classified Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_truman_top_secret_ru_1a3bfe",
+      "title": "What Truman's Top Secret Rules Actually Required",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Top Secret Accountability",
+        "Executive Order 10290 vs Agency Rules",
+        "Top Secret Accountability Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d",
+      "title": "Which MJ 12 Documents Are Actually the Core Set?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of MJ 12 Document Emergence",
+        "Provenance Analysis of Core Documents",
+        "Anomalies in the Cutler Twining Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_cooper_cache_fabrica_71f4cf",
+      "title": "Why So Many Cooper MJ 12 Papers Were Rejected",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Cooper Cache Acquisition Path",
+        "Cooper Cache vs. Original MJ 12 Papers",
+        "Evidence of Fabrication in Cooper Papers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_cutler_twining_anoma_03c99a",
+      "title": "Why the Cutler Twining Memo Still Raises Doubts",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cutler–Twining Memo Archival Discovery Path",
+        "Cutler–Twining Authenticity Evidence Analysis",
+        "Anomalies in the Cutler–Twining Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_friedman_split_verdi_8b4585",
+      "title": "Why Stanton Friedman Accepted Some MJ 12 Papers",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Stanton Friedman's MJ 12 Document Hierarchy",
+        "Emulation Methods in Cooper Papers",
+        "Friedman's Archival Verification Process"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_1984_film_prove_3472da",
+      "title": "What Can the 1984 MJ 12 Film Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Provenance of the 1984 MJ 12 Film",
+        "Authentication Limits of Photographic Evidence",
+        "Federal Agency Findings on MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_source_streams_f7723a",
+      "title": "Was There Ever One MJ 12 Archive at All?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "MJ 12 Document Arrival Sequence",
+        "Provenance vs. Narrative Continuity",
+        "MJ 12 Source Stream Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_som101_provenance_co_2058ff",
+      "title": "Does SOM 1 01 Really Belong With the MJ 12 Core?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "SOM 1 01 Discovery and Transmission Path",
+        "SOM 1 01 vs. Cutler Twining Memorandum",
+        "SOM 1 01 Authentication Evidence Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab",
+      "title": "Could Cutler Have Issued the Memo From Abroad?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Robert Cutler's July 1954 Itinerary",
+        "Cutler Twining Memo Authenticity Theories",
+        "Evidence Against MJ 12 Authenticity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_cutler_delegation_si_b3d699",
+      "title": "Who Should Have Signed While Cutler Was Away?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cutler's 1954 NSC Delegation Time line",
+        "Authorship Interpretations of the Twining Memo",
+        "Designated NSC Administrative Deputies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_cutler_july14_travel_fd6e10",
+      "title": "Where Was Robert Cutler on July 14?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Robert Cutler's July 1954 Itinerary",
+        "Authenticity Interpretations of the 14 July Memo",
+        "Evidence Components of the Cutler Problem"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_eisenhower_july14_ca_ce0585",
+      "title": "What Eisenhower's July 14 Calendar Actually Shows",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "July 1954 NSC Administrative Time line",
+        "Lay Hypothesis vs. Archival Evidence",
+        "Evidence Hierarchy of the Lay Hypothesis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_james_lay_july14_com_5a8600",
+      "title": "Did James Lay Normally Write in Cutler's Name?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Lay Memorandum Comparison Analysis",
+        "Lay's Administrative Roles and Access",
+        "Key Stages in NSC Administrative Actions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_july16_missing_brief_27af71",
+      "title": "Where Is the July 16 MJ 12 Briefing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 16 July 1954 Schedule",
+        "Evidence Gaps in the Cutler Twining Memo",
+        "Institutional Records of 16 July 1954"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_lay_authorship_archi_0bea3f",
+      "title": "What Evidence Would Prove the Lay Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Archival Search for MJ 12 Records",
+        "Lay Authorship Theory vs. Archival Evidence",
+        "Evidence Required to Validate Lay Theory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+      "title": "Why the Cutler Twining Memo Remains Contested",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler Twining Memo Archival Time line",
+        "Cutler Twining Memo Authenticity Claims",
+        "NARA Archival Investigation Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_archival_custody_aut_6fdd18",
+      "title": "Does Finding the Memo in Federal Files Authenticate It?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Cutler Twining Memo Archival Chain Gap",
+        "Interpretations of the Cutler Twining Sheet",
+        "NARA Archival Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_classification_marki_edfa26",
+      "title": "Does the Memo Use a Classification Marking Too Late?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Evolution of Federal Security Classifications",
+        "Cutler Twining Marking Authenticity Analysis",
+        "NARA Classification Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_cutler_trip_authorsh_46327b",
+      "title": "Could Cutler Have Issued the Memo While Abroad?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Robert Cutler's July 1954 Itinerary",
+        "Interpretations of the Unsigned Memo",
+        "Evidence Surrounding the MJ 12 Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_filing_location_anom_903df1",
+      "title": "Why Was the Memo in the Wrong Kind of File?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Air Force Record keeping Mechanism",
+        "Cutler Twining Memo Authenticity Claims",
+        "Evidence of Cutler Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_paper_watermark_disp_525b43",
+      "title": "What Does the Memo's Paper Actually Tell US?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Watermark Claims on Cutler Twining Memorandum",
+        "Fox River Paper Company Investigation Steps",
+        "Cutler Paper Stock Variations at NARA"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_possible_archive_ins_147ae4",
+      "title": "Could Someone Have Planted the Memo in the Files?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Cutler Twining Memo Archival Path",
+        "Archival Explanations for Anomalies",
+        "Cutler Twining Memo Anomalies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+      "title": "Is the Eisenhower MJ 12 Briefing Authentic?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "MJ 12 Document Disclosure Time line",
+        "Authenticity Arguments for MJ 12 Briefing",
+        "Institutional Responses to MJ 12"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_eisenhower_schedule_9e669e",
+      "title": "Does Eisenhower's Real Schedule Support the MJ 12 Briefing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Eisenhower's 18 November 1952 Schedule",
+        "MJ 12 Document vs. Official Records",
+        "Eisenhower Transition Briefing Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_federal_archive_sear_68c0b8",
+      "title": "What Did Federal Archives Actually Find on MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in MJ 12 Archival Investigation",
+        "Authenticity of the Cutler Twining Memorandum",
+        "Federal Records on MJ 12 Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_gao_mj12_review_777f8e",
+      "title": "Did the GAO Find Any Official MJ 12 Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Majestic 12 Verification Process",
+        "MJ 12 Document Authenticity Analysis",
+        "Federal Agencies Consulted by GAO"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_missing_original_pro_028ea7",
+      "title": "Can a Document Be Authenticated Without Its Original?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Provenance of the MJ 12 Film",
+        "Forensic Limitations of Photographs",
+        "Missing Government Chain of Custody"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_supporters_authentic_4c41c5",
+      "title": "Which Arguments for MJ 12 Authenticity Still Hold Up?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_pipeline",
+        "lighthouse"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "other"
+      ],
+      "titles": [
+        "MJ 12 Document Authenticity Arguments",
+        "Friedman's Archival Methodology Steps",
+        "MJ 12 Document Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_truman_memo_dependen_e1aa73",
+      "title": "Why the Truman Memo Matters to the MJ 12 Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the MJ 12 Documents",
+        "Authentication of the Truman Memorandum",
+        "Evidence Hierarchy of MJ 12 Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd",
+      "title": "What Did the FBI Conclude About MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "FBI Investigation of Majestic 12 Documents",
+        "FBI Scope vs. Public Mythology",
+        "Federal Evidence Against MJ 12"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_air_force_mj12_verdi_781480",
+      "title": "How the Air Force Settled the FBI's MJ 12 Inquiry",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "FBI and AFOSI MJ 12 Investigation Time line",
+        "Archival Discrepancies in Cutler Memorandum",
+        "Institutional Findings on MJ 12 Authenticity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_dallas_fbi_mj12_resp_01ea41",
+      "title": "Inside the Dallas FBI Office's MJ 12 Response",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "FBI Handling of MJ 12 Documents 1988",
+        "Dallas FBI Procedural Interpretations",
+        "Factors Influencing Dallas FBI Caution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_file_limits_9ba580",
+      "title": "What Does the FBI's MJ 12 File Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FBI Investigation of MJ 12 Documents",
+        "Documentary vs Historical Claims",
+        "Archival Anomalies in MJ 12 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_involvement_999a82",
+      "title": "Why Did the FBI Investigate the MJ 12 Document?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "FBI Investigation of Majestic 12 Documents",
+        "FBI Investigative Framing vs. Public Perception",
+        "Federal Verification of MJ 12 Material"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_federal_mj12_archive_eb888c",
+      "title": "Did Later Federal Searches Find Evidence for MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "GAO Investigation into MJ 12 Records",
+        "Cutler Twining Memorandum Inconsistencies",
+        "Federal Archive Search Parameters"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_mj12_1991_recheck_cb668d",
+      "title": "Why MJ 12 Returned to the FBI in 1991",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FBI Investigation of MJ 12 Documents",
+        "1988 vs 1991 FBI Findings",
+        "Reasons for 1991 Re investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6",
+      "title": "What the GAO Search Found About MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "GAO Investigation of MJ 12 Records",
+        "Authenticity of the Cutler Twining Memorandum",
+        "Evidence Gaps in MJ 12 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_custody_vs_authentic_545101",
+      "title": "Does Finding an MJ 12 Paper in an Archive Prove It?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler–Twining Memo Archival Time line",
+        "Custody vs. Provenance Distinction",
+        "Anomalies in the Cutler–Twining Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_cutler_twining_memo_b4b4f6",
+      "title": "Why the Cutler Twining Memo Did Not Authenticate MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Cutler Twining Memorandum Archival Path",
+        "Cutler Memorandum Authenticity Arguments",
+        "Anomalies in the Cutler Twining Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_gao_provenance_test_17e3c5",
+      "title": "What Would Have Authenticated an MJ 12 Government Document?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Provenance Verification Workflow",
+        "Appearance vs. Provenance Evidence",
+        "MJ 12 Provenance Failure Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_missing_roswell_reco_3da55d",
+      "title": "Do Missing Roswell Records Leave Room for MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "RAAF Record Destruction Time line",
+        "Archival Gaps vs. MJ 12 Evidence",
+        "Identified Archive Deficiencies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_mj_twelve_message_56461e",
+      "title": "How the 'MJ Twelve' Message Failed Authentication",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Authentication History of the 1980 MJ Twelve Message",
+        "Surface Plausibility vs. Institutional Provenance",
+        "Anomalies in the 1980 Aquarius Message"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_presidential_library_c722dd",
+      "title": "Why Presidential Library Searches Found No MJ 12 Trail",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "NARA Archival Search Methodology",
+        "MJ 12 Document Provenance Analysis",
+        "NARA UFO Record Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+      "title": "Could James Lay Explain the Unsigned Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "July 1954 NSC Administrative Time line",
+        "Interpretations of the Cutler Twining Memo",
+        "Archival Evidence of Lay's Authority"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_eisenhower_lay_phone_1b7966",
+      "title": "Did Eisenhower Tell Lay to Contact Twining?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "July 14, 1954 Presidential Schedule",
+        "Lay Hypothesis Evidence Analysis",
+        "Archival Search Scope Results"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_lay_cutler_working_r_c0140c",
+      "title": "How Closely Did James Lay and Robert Cutler Work?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NSC Administrative Chain of Command",
+        "Authorship Theories of the Cutler Twining Memo",
+        "Evidence Hierarchy for the Lay Theory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_lay_july16_delegatio_16dab7",
+      "title": "What Lay's July 16 Memo Says About Delegation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cutler Absence and Delegation Time line",
+        "Cutler Twining Memo Authentication Debate",
+        "NSC Administrative Roles and Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_proof_for_lay_author_c0a2cd",
+      "title": "What Would Convincing Evidence for Lay Authorship Look Like?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Establishing Lay Authorship Evidence",
+        "Lay Authorship Evidence Hierarchy",
+        "Eisenhower Library Research Collections"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_routine_note_cutler_a40a89",
+      "title": "Could Lay Send a Routine Note as Cutler?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NSC Administrative Delegation Workflow",
+        "Cutler Twining Memorandum Attribution Claims",
+        "NSC Document Attribution Patterns"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_unsigned_memo_lay_th_e24031",
+      "title": "Does the Missing Signature Help the Lay Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler Administrative Time line July 1954",
+        "Interpretations of the Unsigned Carbon",
+        "Evidence Analysis of the Cutler Twining Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b",
+      "title": "Do Later MJ 12 Forgeries Discredit the Originals?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "MJ 12 Forgery Manufacturing Process",
+        "Provenance of MJ 12 Document Batches",
+        "Impact of Proven Forgeries on Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_authorship_test_adb7cd",
+      "title": "What Linguistic Testing Found in MJ 12 Papers",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chaski Forensic Linguistic Workflow",
+        "MJ 12 Authorship Test Results",
+        "Exclusions from Chaski Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_false_corrobora_e1c771",
+      "title": "When Matching MJ 12 Documents Stop Corroborating Each Other",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Fabrication Methods of Cooper Era Documents",
+        "Corroboration vs. Imitation in MJ 12",
+        "Official Findings on MJ 12 Material"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_forgery_templat_2c4df4",
+      "title": "How Genuine Documents Became Convincing MJ 12 Forgeries",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Template Forgery Fabrication Process",
+        "Authentic vs. Emulated Documents",
+        "Key Indicators of Template Forgery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_guilt_by_associ_20def5",
+      "title": "Does One MJ 12 Forgery Discredit Every Document?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "MJ 12 Document Circulation History",
+        "Logic of Document Forgery Inference",
+        "Cutler Twining Memorandum Anomalies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_period_accuracy_c5bdc8",
+      "title": "Why Period Perfect Details No Longer Prove MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Template Based Forgery Methodology",
+        "Authenticity Evidence Asymmetry",
+        "Weakened MJ 12 Authentication Clues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb",
+      "title": "Who Were the Alleged Twelve Members of MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Majestic 12 Alleged Membership Roles",
+        "Plausibility vs. Authenticity Analysis",
+        "Chronology of Key Personnel Appointments"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_bronk_hunsaker_berkn_66c710",
+      "title": "How MJ 12's Scientists Covered the Right Specialties",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Scientific Roles in MJ 12 Roster",
+        "MJ 12 Document Authenticity Analysis",
+        "Biographies of the Scientific Trio"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_bush_september_1947_303bf3",
+      "title": "Did Vannevar Bush's Timeline Fit the MJ 12 Story?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "September 1947 Bush Key Stages",
+        "Plausibility vs Authentication Analysis",
+        "Vannevar Bush Defense Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_forrestal_replacemen_238676",
+      "title": "What Forrestal's Death Meant for the Claimed Roster",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Forrestal and Smith Career Key Stages",
+        "MJ 12 Roster Claims vs. Records",
+        "Plausibility Factors of MJ 12 Roster"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_gordon_gray_defense_d1bbb5",
+      "title": "Why Gordon Gray Fit a Secret Technology Committee",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gordon Gray's Military Career Path",
+        "Majestic 12 Roster Plausibility Analysis",
+        "Gray's Administrative Portfolio Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_hillenkoetter_souers_0cdf5c",
+      "title": "Why MJ 12 Named Two Early Intelligence Chiefs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "bridge"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Evolution of US Intelligence Leadership",
+        "Majestic 12 Document Authenticity Analysis",
+        "Institutional Roles of Souers and Hillenkoetter"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_twining_aircraft_pla_1a84d2",
+      "title": "Why Nathan Twining Fit the MJ 12 Aircraft Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nathan Twining's 1947 Military Time line",
+        "Twining Memorandum Interpretations",
+        "Air Materiel Command Capabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+      "title": "Where Are the Other MJ 12 Government Records?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "National Archives MJ 12 Search Process",
+        "MJ 12 Documentary Evidence Analysis",
+        "Institutional Records Checked for MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_cutler_travel_memo_c_1b6c31",
+      "title": "Could Robert Cutler Have Issued the July 1954 Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler's July 1954 Travel Key Stages",
+        "Authorship Theories for Cutler Twining Memo",
+        "Evidence Gaps in MJ 12 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_cutler_twining_orpha_00d8f5",
+      "title": "Why Does the Cutler Twining Memo Stand Alone?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cutler Twining Memorandum Archival Discovery",
+        "Cutler Twining Memorandum Evidence Analysis",
+        "Physical Characteristics of the Sheet"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_eisenhower_mj12_meet_1aebcb",
+      "title": "Was the Alleged 1954 MJ 12 Briefing Ever Scheduled?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Eisenhower Schedule July 1954",
+        "MJ 12 Memorandum Discrepancies",
+        "July 16 White House Activities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_gao_mj12_records_fin_79fb1c",
+      "title": "What Did the GAO Actually Find About MJ 12 Records?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Investigation of MJ 12 Records",
+        "Provenance of MJ 12 Documents",
+        "Scope of GAO Archival Search"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_national_archives_mj_737dbb",
+      "title": "Why Did Federal Archives Find No MJ 12 Trail?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NARA Archival Search Methodology",
+        "MJ 12 Document Authenticity Analysis",
+        "Federal Records Searched for MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_nsc_missing_mj12_ref_c2bc80",
+      "title": "What Do National Security Council Records Say About MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "July 1954 NSC Meeting Key Stages",
+        "MJ 12 Documentary Evidence Gaps",
+        "NSC Record Preservation Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+      "title": "The Missing Chain of Custody Behind MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "MJ 12 Document Provenance Gaps",
+        "Stylistic Clues vs. Archival Provenance",
+        "Anomalies in the Cutler Twining Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_archives_custody_aut_5a0638",
+      "title": "Does National Archives Custody Authenticate an MJ 12 Document?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NARA MJ 12 Document Verification Process",
+        "Custody vs. Authentication Distinction",
+        "Anomalies in the Cutler Twining Memo"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cia_mj12_record_sear_da2910",
+      "title": "Why CIA Searches Never Supplied the Missing MJ 12 Link",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "CIA Majestic 12 Search Process",
+        "Provenance Gap Analysis of MJ 12",
+        "FOIA Search Limitations and Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cutler_travel_record_f6bb15",
+      "title": "Could Cutler Have Issued the Memo While Abroad?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Robert Cutler's July 1954 Time line",
+        "MJ 12 Memorandum Provenance Theories",
+        "Evidence Gaps in MJ 12 Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cutler_twining_filin_9e2023",
+      "title": "Why the Cutler Twining Filing Context Raises Doubts",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler Twining Memo Archival Discovery Path",
+        "Cutler Twining Memo Provenance Discrepancies",
+        "Anomalies in the Cutler Twining Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_fbi_1988_mj12_ac0b14",
+      "title": "What the FBI Could Trace Back From MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FBI MJ 12 Investigation Time line 1988",
+        "FBI Record Evidence vs. Provenance Claims",
+        "Scope of the 1988 FBI File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_gao_1995_mj12_review_71b77d",
+      "title": "What the 1995 GAO Review Found About MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Majestic 12 Inquiry Process",
+        "Provenance of MJ 12 Documents",
+        "Institutional Checks on MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc",
+      "title": "Was the MJ 12 Date Format Really Impossible?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "MJ 12 Date Format Authenticity Claims",
+        "Historical Government Dating Variations",
+        "Specific Anomalies in MJ 12 Documents"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_dulles_three_date_fo_98e64e",
+      "title": "Could One CIA Office Use Three Date Styles?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Dulles to Goodpaster Correspondence 1956",
+        "Reported November 1956 Date Formats",
+        "Factors Influencing Document Appearance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_gov_date_rules_pract_71faa6",
+      "title": "Did Government Date Rules Actually Bind Every Document?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "GPO Style Manual Date Conventions",
+        "MJ 12 Date Authenticity Arguments",
+        "Evolution of Federal Printing Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_hillenkoetter_date_v_883e81",
+      "title": "How Consistent Were Hillenkoetter Era Intelligence Dates?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hillenkoetter Era Date Chronology",
+        "MJ 12 Date Format Analysis",
+        "Hillenkoetter Documentation Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_mj12_leading_zero_da_b9033e",
+      "title": "Why MJ 12's Leading Zeros Matter More",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_snake",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "process"
+      ],
+      "titles": [
+        "MJ 12 Document vs. Period Standards",
+        "Moore Correspondence Dating Evolution",
+        "MJ 12 Dating Anomalies Breakdown"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_moore_date_habits_f7f48a",
+      "title": "Did William Moore Share MJ 12's Typing Habits?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Key Stages in Date Habit Evolution",
+        "Authorship Evidence Interpretations",
+        "MJ 12 Date Formatting Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_state_department_dat_995c9a",
+      "title": "Federal Records Did Not Use One Date Format",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "State Department Date Evolution 1944 1956",
+        "Federal vs. MJ 12 Date Formats",
+        "State Department Record Evidence Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+      "title": "Does Extreme Secrecy Make MJ 12 Unfalsifiable?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "National Archives MJ 12 Verification Process",
+        "MJ 12 Secrecy Interpretations",
+        "Government Record keeping Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_cutler_twining_recor_6c2fc1",
+      "title": "Why Does the Cutler Twining Memo Not Fit the Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Robert Cutler's 1954 Travel Log",
+        "Cutler Twining Memo Authenticity Claims",
+        "Archival Discrepancies in MJ 12 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_gao_mj12_review_777f8e",
+      "title": "What Did the Government's MJ 12 Review Actually Find?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GAO Investigation of MJ 12 Records",
+        "MJ 12 Document Authenticity Analysis",
+        "GAO Roswell Investigation Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_glomar_mj12_records_88a2e2",
+      "title": "Can the Government Legally Hide Whether MJ 12 Records Exist?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "FOIA Glomar Response Mechanism",
+        "Interpreting FOIA Search Results",
+        "MJ 12 Archival Evidence Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_mj12_archive_searche_2c98f1",
+      "title": "Where Should MJ 12 Have Appeared in the Archives?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "National Archives MJ 12 Search Process",
+        "MJ 12 Document Evidential Analysis",
+        "Government Records Searched for MJ 12"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_mj12_missing_records_2b6289",
+      "title": "When Does Missing Evidence Count Against MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Expected Traces of MJ 12 Activity",
+        "Evaluating the Cutler–Twining Memorandum",
+        "Institutional Responses to MJ 12 Material"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_secret_program_admin_333b9a",
+      "title": "What Records Should a Truly Secret Program Leave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Administrative Residue of Secret Programs",
+        "MJ 12 Document Evidentiary Analysis",
+        "Historical Secret Program Archives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd",
+      "title": "Do MJ 12 Security Markings Fit the 1950 s?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of US Security Classifications",
+        "MJ 12 Memorandum Authentication Analysis",
+        "Distinctions in Restricted Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_cutler_twining_marki_01100f",
+      "title": "Why the Cutler Twining Security Marking Looks Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Evolution of US Security Classifications",
+        "Cutler Twining Memorandum Authenticity Claims",
+        "Anomalies in the Cutler Twining Document"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_eisenhower_classific_99c19a",
+      "title": "Did Eisenhower's Classification Rules Leave Room for MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Defense Classification Systems",
+        "MJ 12 Memorandum Classification Anomalies",
+        "Post 1953 Classification Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_missing_register_num_36da99",
+      "title": "Why Is the Cutler Twining Register Number Missing?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "list_vertical",
+        "tree_roots"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler–Twining Memorandum Authentication Tests",
+        "NARA Archival Findings for Record Group 341",
+        "Factors Influencing Document Provenance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_restricted_after_195_9986ce",
+      "title": "When Did 'Restricted' Stop Being a Classification?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of US Security Classifications",
+        "Classification Hierarchy & Distinctions",
+        "MJ 12 Memorandum Authenticity Markers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_restricted_data_exce_0fcc7e",
+      "title": "Could Restricted Data Explain the MJ 12 Marking?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Atomic Security Designations",
+        "MJ 12 Marking Authenticity Analysis",
+        "Legal Categories of Atomic Information"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_restricted_handling_b1a263",
+      "title": "Was 'Restricted' Just a Need to Know Warning?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "US Government Security Classification System",
+        "MJ 12 Marking Interpretations",
+        "Historical Security Marking Examples"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+      "title": "Can Typography Date the MJ 12 Documents?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Cutler Twining Pica Dispute Resolution",
+        "Truman Memorandum Typography Interpretations",
+        "Hierarchy of Typographical Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_cutler_pica_challeng_0eb05f",
+      "title": "Did Pica Type Really Discredit the Cutler Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Pica Typography Challenge Key Stages",
+        "Typography vs. Archival Authenticity",
+        "National Archives Document Issues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_film_copy_forensics_3a2000",
+      "title": "What 35 mm Copies Hide From Document Examiners",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MJ 12 Photographic Evidence Limits",
+        "Class vs Individual Identification",
+        "MJ 12 Document Forensic Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_truman_mixed_date_ccadf1",
+      "title": "Why the Truman Memo's Date Looks Mixed",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Interpretations of the 1947 Date Mismatch",
+        "Evidence from the Truman Memorandum",
+        "Document Production Key Stages Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_typeface_vs_machine_660549",
+      "title": "Can a Typeface Identify the Exact Typewriter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FBI Typewriter Examination Workflow",
+        "MJ 12 Typography Interpretation Models",
+        "Typewriter Forensic Characteristic Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_white_house_typewrit_897b8e",
+      "title": "Did White House Offices Really Use One Type Style?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1989 Typewriter Challenge Key Stages",
+        "Typography as Forensic Evidence",
+        "Factors Influencing NSC Typography"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+      "title": "The National Archives Problems With MJ 12",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "NARA Archival Verification Process",
+        "Interpretations of the Cutler Twining Memo",
+        "Anomalies in the MJ 12 Document"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_cutler_twining_paper_fc6338",
+      "title": "Does the Cutler Twining Paper Fit the 1950 s?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Fox River Dictation Onionskin Production History",
+        "Cutler Office Stationery Comparison",
+        "Paper Evidence Limitations for MJ 12"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_cutler_twining_regis_42ddd3",
+      "title": "Why Is the Cutler Twining Register Number Missing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Air Force Top Secret Accountability Chain",
+        "Cutler Twining Memorandum Provenance Theories",
+        "NARA Investigation Findings on Entry 267"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_eo10501_mj12_cb9666",
+      "title": "Did Eisenhower's Classification Rules Fit the MJ 12 Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Eisenhower Classification Rules",
+        "MJ 12 Marking Interpretations",
+        "Hierarchy of Eisenhower Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_mj12_briefing_record_f608df",
+      "title": "Should the Alleged July 1954 MJ 12 Briefing Have Left Records?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Administrative Key Stages in Cutler Twining Memo",
+        "Archival Evidence vs. Memo Claims",
+        "Institutional Records Checked by NARA"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_mj12_security_markin_669f2a",
+      "title": "Was the MJ 12 Security Marking Used in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "NSC Security Marking Key Stages",
+        "Cutler Twining Memo Authentication Analysis",
+        "Eisenhower Era Classification Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_nara_missing_mj12_tr_9e5a5b",
+      "title": "Where Is the Supporting Paper Trail for MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NARA Archival Search Methodology",
+        "MJ 12 Document Authenticity Analysis",
+        "Institutional Records Checked by NARA"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e",
+      "title": "Does the Paper Stock Undermine the MJ 12 Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler Memo vs. Office Standards",
+        "Forensic Analysis of MJ 12 Paper",
+        "NARA Archival Findings Summary"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_cumulative_paper_ano_9a009f",
+      "title": "Do the Paper Clues Add Up Against the Memo?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cutler–Twining Memo Authentication Logic",
+        "Cutler Office Stationery Comparison",
+        "NARA Archival Discrepancies for MJ 12"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_cutler_sample_streng_4ba4b5",
+      "title": "How Strong Was the Cutler Stationery Comparison?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cutler Stationery vs. MJ 12 Memo",
+        "Cutler Archive Material Categories",
+        "Strength of the Cutler Comparison"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_eagle_watermark_disp_5e6100",
+      "title": "Does the Missing Eagle Watermark Prove a Forgery?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cutler Stationery Variations in Archives",
+        "Forensic Analysis of the Cutler Twining Memo",
+        "Stanton Friedman's Defense Arguments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_missing_white_house_579b9e",
+      "title": "Why Is the Cutler Twining Memo Missing Letterhead?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NARA Forensic Examination Process",
+        "Cutler Twining Stationery Discrepancy Analysis",
+        "Cutler Office Record Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_period_vs_office_pap_0db3f4",
+      "title": "Period Correct Paper Is Not the Same as Office Correct",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Fox Dictation Onionskin Production History",
+        "Stationery Authentication Logic Comparison",
+        "Cutler Office Stationery Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_ribbon_vs_carbon_cop_1c2ea4",
+      "title": "Was the Cutler Twining Memo Really a Carbon Copy?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Typewriter Production Mechanics",
+        "Cutler Twining Memo Forensic Logic",
+        "NARA Forensic Discrepancies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1",
+      "title": "How the MJ 12 Papers Recast the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "lighthouse"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Chronology of the MJ 12 Roswell Narrative",
+        "Roswell Narrative: Document vs. Archive",
+        "Institutional Trail of MJ 12 Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_mj12_roswell_1947_ti_c39880",
+      "title": "How the MJ 12 Roswell Timeline Builds Its Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MJ 12 Briefing 1947 Key Stages",
+        "Roswell Recovery Evidence Gap",
+        "MJ 12 Narrative Authority Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_balloon_cove_942dbe",
+      "title": "Was the Roswell Balloon Story Really a Cover Up?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell 1947 Public Narrative Key Stages",
+        "Interpretations of the Roswell Reversal",
+        "Roswell Evidence and Archival Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_debris_space_cd77ce",
+      "title": "Did Roswell Debris Become a Spacecraft Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "The 1947 Roswell Recovery Key Stages",
+        "Roswell Record vs. MJ 12 Claims",
+        "Evidence Gaps in MJ 12 Briefing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_four_bodies_32f81d",
+      "title": "Where Did the Four Roswell Bodies Come From?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Roswell Narrative",
+        "MJ 12 Briefing vs. 1947 Records",
+        "Evidence Gaps in Roswell Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_mj12_creatio_b0f48b",
+      "title": "Did Roswell Supposedly Create Majestic 12?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alleged Roswell to MJ 12 Progression",
+        "MJ 12 Narrative vs Archival Reality",
+        "Roles in the MJ 12 Briefing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_mj12_missing_4466da",
+      "title": "Where Is Roswell's Alleged MJ 12 Paper Trail?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "MJ 12 Documented Archive Sequence",
+        "Roswell Archival Evidence Comparison",
+        "Institutional Records of Roswell"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+      "title": "Where Does the SOM 1 01 Manual Fit?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Provenance of the SOM 1 01 Manual",
+        "Authenticity Interpretations of SOM 1 01",
+        "Components of the SOM 1 01 Manual"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_film_provenan_9ea59a",
+      "title": "Can SOM 1 01's Anonymous Film Trail Prove Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "SOM 1 01 Provenance and Mailing History",
+        "Evidence Types vs. Provenance Gaps",
+        "Requirements for Credible SOM 1 01 Provenance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_missing_origi_cee1fd",
+      "title": "What Could SOM 1 01's Missing Original Have Revealed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "SOM 1 01 Photographic Evidence Chain",
+        "Photographs vs. Physical Originals",
+        "SOM 1 01 Photographic Analysis Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_period_detail_060208",
+      "title": "Do SOM 1 01's Period Details Support Authenticity?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "prism",
+        "tug_of_war"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "SOM 1 01 Authenticity Evidence Analysis",
+        "SOM 1 01 Period Detail Hierarchy",
+        "Provenance vs. Consistency Limits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_separate_auth_f7b3a8",
+      "title": "Why SOM 1 01 Must Be Judged on Its Own",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "SOM 1 01 Document Entry Key Stages",
+        "Narrative Consistency vs. Provenance",
+        "Requirements for SOM 1 01 Authentication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_trix_film_fcaeed",
+      "title": "Can Old Film Stock Date the SOM 1 01 Photos?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Photographic Film Lifecycle Stages",
+        "Tri X Film Evidential Limits",
+        "SOM 1 01 Authentication Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_typography_19_e306bc",
+      "title": "Does SOM 1 01's Typography Fit a 1954 Manual?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_pipeline",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Typography Analysis of SOM 1 01",
+        "SOM 1 01 Forensic Evidence Chain",
+        "Typographic Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+      "title": "Why Stanton Friedman Defended the Core MJ 12 Papers",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Friedman's Core MJ 12 Documents",
+        "Arguments Against MJ 12 Forgery Claims",
+        "Evidence vs. Provenance Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_cutler_twining_typew_7b17e9",
+      "title": "Did the Cutler Twining Typewriter Argument Hold Up?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "The Typewriter Argument Resolution",
+        "Cutler Twining Memo Evidence Analysis",
+        "Friedman's Comparative Analysis Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_eisenhower_briefing_e273e5",
+      "title": "Were the Eisenhower Briefing's Odd Details Really Anachronisms?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "EBD Formatting: Skeptic vs. Defense",
+        "EBD Authentication Evidence Layers",
+        "Official Records vs. EBD Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_friedman_rejected_mj_bce165",
+      "title": "Why Friedman Rejected Many MJ 12 Documents but Kept Three",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Friedman's Methodology for Detecting Emulations",
+        "MJ 12 Document Classification by Friedman",
+        "Evidence of Fabrication in Cooper Papers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_friedman_three_docum_937129",
+      "title": "Why Friedman Defended These Three MJ 12 Documents",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Alleged MJ 12 Documents",
+        "Interpretations of the Cutler Twining Memorandum",
+        "Friedman's Cumulative Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_hillenkoetter_style_a2d68b",
+      "title": "Could Hillenkoetter's Writing Style Authenticate the Briefing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roger Wescott Linguistic Analysis Workflow",
+        "Linguistic Compatibility vs. Document Provenance",
+        "Linguistic Findings on MJ 12 Documents"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_truman_signature_pro_9fefb3",
+      "title": "Why the Truman Signature Was So Difficult to Defend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Time line of the Truman Forrestal Memorandum",
+        "Interpretations of the Truman Signature",
+        "Forensic Evidence in MJ 12 Documents"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+      "title": "How Credible Are the Timothy Cooper MJ 12 Papers?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in MJ 12 Document Arrivals",
+        "Evidence Quality of Cooper Papers",
+        "Heterogeneous Sources in Cooper Collection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_burned_memo_source_c_16595e",
+      "title": "Does the Burned Memo Letter Prove Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Source S 1 Document Chain of Custody",
+        "Burned Memo Evidence Analysis",
+        "Claims of the 1999 Cover Letter"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cantwheel_provenance_50036b",
+      "title": "Can the Cantwheel Source Story Be Verified?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cantwheel Document Delivery Time line",
+        "Provenance vs. Physical Evidence",
+        "Majestic Documents Cantwheel Catalogue"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cooper_chain_of_cust_f44dbb",
+      "title": "Why Provenance Is the Cooper Collection's Core Problem",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cooper Collection Chain of Custody",
+        "Evidence vs. Provenance Limits",
+        "Broken Chains in Cooper Collection"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cooper_typewriter_di_475a1c",
+      "title": "Did Cooper's Typewriter Match the Annual Report?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "process_pipeline"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Typewriter Evidence Interpretations",
+        "Specific Typewriter Anomalies",
+        "Provenance Investigation Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_marshall_forgery_ris_285fa6",
+      "title": "What the Marshall Forgery Reveals About Cooper's Papers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Marshall Humelsine Forgery",
+        "Authenticity Risks in Cooper Documents",
+        "Anatomy of the Marshall Forgery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_s2_volume_illusion_a4b49a",
+      "title": "Do Hundreds of Pages Make S 2 More Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "S 2 Batch Document Categories",
+        "Volume Illusion vs. Evidential Weight",
+        "S 2 Batch Inventory Breakdown"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+      "title": "Why the Missing Register Number Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "logic_equation"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Cutler–Twining Memo Archival Discovery Path",
+        "Interpretations of Missing Register Numbers",
+        "Provenance Evidence Logic for MJ 12"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_air_force_document_c_6d757d",
+      "title": "Why Not Every Top Secret Document Looked the Same",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AFR 205 1 Document Classifications",
+        "Cutler–Twining Memorandum Authenticity Tests",
+        "Functions of Document Identifiers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_lost_control_sheet_h_8f7605",
+      "title": "Could a Missing Cover Sheet Solve the Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Air Force Document Handling 1953 1954",
+        "Cutler Twining Memo Provenance Theories",
+        "Types of 1950 s Control Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_misfiling_vs_later_i_0e04ab",
+      "title": "Misfiled Document or Later Insertion?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Cutler–Twining Memo Provenance Theories",
+        "Archival Anomalies in Record Group 341",
+        "NARA Archival Verification Process"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_nara_filing_system_m_6e48cf",
+      "title": "Why the Archive's Filing System Changes the Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Air Force Top Secret Accountability Workflow",
+        "Provenance Analysis of Cutler Twining Memo",
+        "Classification vs. Accountability Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_t4_1846_number_confu_803ba7",
+      "title": "Was T4 1846 Really the Memo's Control Number?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Evolution of T4 1846 Identification",
+        "Archival Interpretation of T4 1846",
+        "Distinct Archival Identifiers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_top_secret_rules_195_603b84",
+      "title": "Did Top Secret Rules Require a Number in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Executive Order 10501 Implementation Flow",
+        "Air Force Document Classification Distinctions",
+        "Cutler Twining Memorandum Archival Anomalies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc",
+      "title": "Did Truman Create Majestic 12 in September 1947?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "September 1947 National Security Time line",
+        "MJ 12 Document Authenticity Analysis",
+        "Expected Collateral Documentation Trail"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_cia_nsc_mj12_timing_53a1ad",
+      "title": "Cia Nsc Mj 12 Timing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "September 1947 Intelligence Time line",
+        "MJ 12 Narrative vs. Authentic Records",
+        "CIA Organizational Transition 1947"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_forrestal_mj12_autho_349ad4",
+      "title": "Could Forrestal Have Run MJ 12 in September 1947?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "September 1947 Defense Chronology",
+        "MJ 12 Document Interpretations",
+        "Institutional Verification Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_roswell_to_mj12_gap_2af6f0",
+      "title": "How Long After Roswell Was MJ 12 Allegedly Created?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell to MJ 12 Chronology",
+        "MJ 12 Narrative Interpretations",
+        "Verified 1947 Historical Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_security_reorganizat_22fb35",
+      "title": "Why September 1947 Made MJ 12 Look Plausible",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "September 1947 Defense Reorganization",
+        "MJ 12 Narrative vs. Historical Record",
+        "Key Figures in September 1947"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_truman_memo_sequence_3539ba",
+      "title": "Did the Alleged Truman Memo Follow the Meeting?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "September 24, 1947 White House Time line",
+        "Interpretations of the MJ 12 Memorandum",
+        "Evidence Against MJ 12 Authenticity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_truman_sept24_meetin_66d5d2",
+      "title": "What Happened at Truman's September 24 Meeting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Truman White House Appointment Time line",
+        "MJ 12 Document Authenticity Analysis",
+        "Evidence Hierarchy for MJ 12 Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d",
+      "title": "Does the Truman Signature Prove Forgery?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Forensic Analysis of Truman Signature",
+        "Signature Origin Interpretations",
+        "MJ 12 Archival Evidence Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_freehand_vs_reproduc_9e6136",
+      "title": "Freehand Vs Reproduc",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Proposed MJ 12 Signature Alteration Key Stages",
+        "Truman Signature Analysis Hypotheses",
+        "Forensic Handwriting Evidence Markers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_signature_evidence_l_73478d",
+      "title": "What Can Copies Really Prove About MJ 12?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Forensic Analysis of MJ 12 Signature",
+        "Copy vs. Original Document Evidence",
+        "Limitations of MJ 12 Archival Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_signature_size_diffe_797caa",
+      "title": "Does the Signature Size Difference Weaken the Case?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Signature Reproduction Chain Analysis",
+        "Truman Signature Discrepancy Interpretations",
+        "Forensic Measurement Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_truman_signing_devic_c2b162",
+      "title": "Could a Signing Machine Explain the Match?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hypothetical Pantograph Signing Key Stages",
+        "Mechanical vs. Photographic Forgery",
+        "Truman Era Signing Technology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_truman_stray_mark_d8db56",
+      "title": "Why the Stray Pen Mark Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Signature Analysis of MJ 12 Documents",
+        "Truman Signature Origin Theories",
+        "Evidence for Signature Transplantation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_truman_t_stroke_2bb298",
+      "title": "Did Cleanup Damage Truman's Signature Stroke?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Proposed Signature Transplant Process",
+        "Truman Signature Evidence Analysis",
+        "MJ 12 Signature Forensic Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

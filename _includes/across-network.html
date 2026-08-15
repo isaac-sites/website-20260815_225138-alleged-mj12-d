@@ -1,0 +1,14 @@
+{% assign cross_site_groups = site.data.cross_site_relationships.groups | default: empty %}
+{% for group in cross_site_groups %}
+  {% if group.source_path == page.url and group.links.size >= 1 %}
+  <aside class="across-network" aria-labelledby="across-network-heading">
+    <p class="across-network-kicker">Across the network</p>
+    <h2 id="across-network-heading">Explore related perspectives</h2>
+    <ul class="across-network-links">
+      {% for link in group.links limit: 5 %}
+      <li><a href="{{ link.url | escape }}" data-relationship-type="{{ link.relationship_type | escape }}">{{ link.label | escape }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+{% endfor %}

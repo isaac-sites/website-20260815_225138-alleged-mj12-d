@@ -1,0 +1,2514 @@
+{
+  "version": 1,
+  "page_count": 117,
+  "total_page_seconds": 1974.2539,
+  "average_page_seconds": 16.874,
+  "phase_totals_seconds": {
+    "media_svg": 1446.196,
+    "internal_links": 332.2211,
+    "content_assembly": 119.995,
+    "monetization": 41.8596,
+    "youtube": 14.4536,
+    "quality_write": 9.1159,
+    "content_cleanup_final": 6.3666,
+    "preparation": 3.9187,
+    "content_cleanup_initial": 0.1277
+  },
+  "slowest_pages": [
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 28.1606,
+      "phases": {
+        "preparation": 0.04,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.8178,
+        "content_cleanup_final": 0.07,
+        "media_svg": 19.1804,
+        "youtube": 3.5574,
+        "content_assembly": 1.1275,
+        "monetization": 1.267,
+        "quality_write": 0.0991
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 25.5731,
+      "phases": {
+        "preparation": 0.0413,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 3.0072,
+        "content_cleanup_final": 0.0618,
+        "media_svg": 21.083,
+        "youtube": 0.0235,
+        "content_assembly": 1.1258,
+        "monetization": 0.1347,
+        "quality_write": 0.095
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 24.1544,
+      "phases": {
+        "preparation": 0.0375,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.7835,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 14.556,
+        "youtube": 4.4227,
+        "content_assembly": 1.0464,
+        "monetization": 1.2128,
+        "quality_write": 0.0597
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.5137,
+      "phases": {
+        "preparation": 0.0488,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8645,
+        "content_cleanup_final": 0.0379,
+        "media_svg": 17.5159,
+        "youtube": 0.0189,
+        "content_assembly": 1.1325,
+        "monetization": 0.813,
+        "quality_write": 0.0816
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.1371,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 3.412,
+        "content_cleanup_final": 0.0718,
+        "media_svg": 16.1475,
+        "youtube": 0.0287,
+        "content_assembly": 1.2975,
+        "monetization": 1.0431,
+        "quality_write": 0.0909
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 21.5485,
+      "phases": {
+        "preparation": 0.0409,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6551,
+        "content_cleanup_final": 0.0468,
+        "media_svg": 12.4663,
+        "youtube": 3.822,
+        "content_assembly": 1.0873,
+        "monetization": 1.3454,
+        "quality_write": 0.0836
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 21.3411,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.9241,
+        "content_cleanup_final": 0.044,
+        "media_svg": 16.9643,
+        "youtube": 0.0248,
+        "content_assembly": 1.0442,
+        "monetization": 0.2025,
+        "quality_write": 0.0913
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.5717,
+      "phases": {
+        "preparation": 0.0398,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.9763,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 14.5968,
+        "youtube": 0.0212,
+        "content_assembly": 1.0043,
+        "monetization": 0.8259,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.5254,
+      "phases": {
+        "preparation": 0.0429,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7807,
+        "content_cleanup_final": 0.064,
+        "media_svg": 14.4793,
+        "youtube": 0.015,
+        "content_assembly": 1.0716,
+        "monetization": 0.9746,
+        "quality_write": 0.0965
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.3148,
+      "phases": {
+        "preparation": 0.0395,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.7625,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 14.3695,
+        "youtube": 0.0166,
+        "content_assembly": 1.0717,
+        "monetization": 0.8646,
+        "quality_write": 0.1578
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.7424,
+      "phases": {
+        "preparation": 0.0466,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.5731,
+        "content_cleanup_final": 0.0414,
+        "media_svg": 14.7458,
+        "youtube": 0.0282,
+        "content_assembly": 1.0839,
+        "monetization": 0.1344,
+        "quality_write": 0.0876
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.6547,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8139,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 14.1618,
+        "youtube": 0.0184,
+        "content_assembly": 1.3156,
+        "monetization": 0.162,
+        "quality_write": 0.1
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_s2_volume_illusion_a4b49a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 18.1108,
+      "phases": {
+        "preparation": 0.1219,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8664,
+        "content_cleanup_final": 0.0757,
+        "media_svg": 12.1212,
+        "youtube": 0.0319,
+        "content_assembly": 0.9805,
+        "monetization": 1.8304,
+        "quality_write": 0.0823
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_photocopy_probl_bd86ef",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.79,
+      "phases": {
+        "preparation": 0.0341,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.9992,
+        "content_cleanup_final": 0.0761,
+        "media_svg": 12.0749,
+        "youtube": 0.0313,
+        "content_assembly": 1.0664,
+        "monetization": 1.4326,
+        "quality_write": 0.0747
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.7585,
+      "phases": {
+        "preparation": 0.0407,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.8058,
+        "content_cleanup_final": 0.0758,
+        "media_svg": 13.4588,
+        "youtube": 0.0219,
+        "content_assembly": 1.0881,
+        "monetization": 0.1812,
+        "quality_write": 0.085
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6353,
+      "phases": {
+        "preparation": 0.0426,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8723,
+        "content_cleanup_final": 0.0485,
+        "media_svg": 13.3495,
+        "youtube": 0.027,
+        "content_assembly": 1.0533,
+        "monetization": 0.1485,
+        "quality_write": 0.092
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_typography_19_e306bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.5395,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.9539,
+        "content_cleanup_final": 0.0489,
+        "media_svg": 12.2653,
+        "youtube": 0.0121,
+        "content_assembly": 1.0671,
+        "monetization": 1.0992,
+        "quality_write": 0.0663
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_balloon_cove_942dbe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4771,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.6387,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 11.9935,
+        "youtube": 0.0132,
+        "content_assembly": 0.8261,
+        "monetization": 1.8799,
+        "quality_write": 0.0654
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_nara_missing_mj12_tr_9e5a5b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4395,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0023,
+        "internal_links": 3.2215,
+        "content_cleanup_final": 0.0731,
+        "media_svg": 12.0491,
+        "youtube": 0.0251,
+        "content_assembly": 1.1021,
+        "monetization": 0.8594,
+        "quality_write": 0.0787
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_mj12_missing_records_2b6289",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1463,
+      "phases": {
+        "preparation": 0.0327,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.9899,
+        "content_cleanup_final": 0.06,
+        "media_svg": 12.0283,
+        "youtube": 0.031,
+        "content_assembly": 1.0301,
+        "monetization": 0.905,
+        "quality_write": 0.0677
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "alleged_mj12_documen_5d9d42",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 21.5485,
+      "phases": {
+        "preparation": 0.0409,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6551,
+        "content_cleanup_final": 0.0468,
+        "media_svg": 12.4663,
+        "youtube": 3.822,
+        "content_assembly": 1.0873,
+        "monetization": 1.3454,
+        "quality_write": 0.0836
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 24.1544,
+      "phases": {
+        "preparation": 0.0375,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.7835,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 14.556,
+        "youtube": 4.4227,
+        "content_assembly": 1.0464,
+        "monetization": 1.2128,
+        "quality_write": 0.0597
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 28.1606,
+      "phases": {
+        "preparation": 0.04,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.8178,
+        "content_cleanup_final": 0.07,
+        "media_svg": 19.1804,
+        "youtube": 3.5574,
+        "content_assembly": 1.1275,
+        "monetization": 1.267,
+        "quality_write": 0.0991
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.7585,
+      "phases": {
+        "preparation": 0.0407,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.8058,
+        "content_cleanup_final": 0.0758,
+        "media_svg": 13.4588,
+        "youtube": 0.0219,
+        "content_assembly": 1.0881,
+        "monetization": 0.1812,
+        "quality_write": 0.085
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 21.3411,
+      "phases": {
+        "preparation": 0.0452,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.9241,
+        "content_cleanup_final": 0.044,
+        "media_svg": 16.9643,
+        "youtube": 0.0248,
+        "content_assembly": 1.0442,
+        "monetization": 0.2025,
+        "quality_write": 0.0913
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.5137,
+      "phases": {
+        "preparation": 0.0488,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8645,
+        "content_cleanup_final": 0.0379,
+        "media_svg": 17.5159,
+        "youtube": 0.0189,
+        "content_assembly": 1.1325,
+        "monetization": 0.813,
+        "quality_write": 0.0816
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.7424,
+      "phases": {
+        "preparation": 0.0466,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.5731,
+        "content_cleanup_final": 0.0414,
+        "media_svg": 14.7458,
+        "youtube": 0.0282,
+        "content_assembly": 1.0839,
+        "monetization": 0.1344,
+        "quality_write": 0.0876
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4392,
+      "phases": {
+        "preparation": 0.0576,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3788,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 12.8578,
+        "youtube": 0.0159,
+        "content_assembly": 0.8983,
+        "monetization": 0.1226,
+        "quality_write": 0.0886
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.3148,
+      "phases": {
+        "preparation": 0.0395,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.7625,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 14.3695,
+        "youtube": 0.0166,
+        "content_assembly": 1.0717,
+        "monetization": 0.8646,
+        "quality_write": 0.1578
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 25.5731,
+      "phases": {
+        "preparation": 0.0413,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 3.0072,
+        "content_cleanup_final": 0.0618,
+        "media_svg": 21.083,
+        "youtube": 0.0235,
+        "content_assembly": 1.1258,
+        "monetization": 0.1347,
+        "quality_write": 0.095
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.1371,
+      "phases": {
+        "preparation": 0.0445,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 3.412,
+        "content_cleanup_final": 0.0718,
+        "media_svg": 16.1475,
+        "youtube": 0.0287,
+        "content_assembly": 1.2975,
+        "monetization": 1.0431,
+        "quality_write": 0.0909
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.5717,
+      "phases": {
+        "preparation": 0.0398,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.9763,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 14.5968,
+        "youtube": 0.0212,
+        "content_assembly": 1.0043,
+        "monetization": 0.8259,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.6547,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8139,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 14.1618,
+        "youtube": 0.0184,
+        "content_assembly": 1.3156,
+        "monetization": 0.162,
+        "quality_write": 0.1
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1006,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.9286,
+        "content_cleanup_final": 0.046,
+        "media_svg": 12.774,
+        "youtube": 0.0233,
+        "content_assembly": 1.0561,
+        "monetization": 0.1498,
+        "quality_write": 0.0763
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.5254,
+      "phases": {
+        "preparation": 0.0429,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7807,
+        "content_cleanup_final": 0.064,
+        "media_svg": 14.4793,
+        "youtube": 0.015,
+        "content_assembly": 1.0716,
+        "monetization": 0.9746,
+        "quality_write": 0.0965
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6353,
+      "phases": {
+        "preparation": 0.0426,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8723,
+        "content_cleanup_final": 0.0485,
+        "media_svg": 13.3495,
+        "youtube": 0.027,
+        "content_assembly": 1.0533,
+        "monetization": 0.1485,
+        "quality_write": 0.092
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_gao_mj12_review_777f8e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9576,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.6274,
+        "content_cleanup_final": 0.0637,
+        "media_svg": 12.1442,
+        "youtube": 0.0236,
+        "content_assembly": 0.9422,
+        "monetization": 1.066,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_trix_film_fcaeed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.8719,
+      "phases": {
+        "preparation": 0.0339,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8542,
+        "content_cleanup_final": 0.0997,
+        "media_svg": 11.9209,
+        "youtube": 0.0129,
+        "content_assembly": 1.0076,
+        "monetization": 0.8689,
+        "quality_write": 0.0724
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_mj_twelve_message_56461e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.7234,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7213,
+        "content_cleanup_final": 0.0595,
+        "media_svg": 11.7329,
+        "youtube": 0.0284,
+        "content_assembly": 0.9047,
+        "monetization": 0.1829,
+        "quality_write": 0.066
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_moore_date_habits_f7f48a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.5008,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.7079,
+        "content_cleanup_final": 0.0359,
+        "media_svg": 12.4331,
+        "youtube": 0.0189,
+        "content_assembly": 1.0803,
+        "monetization": 0.1299,
+        "quality_write": 0.0645
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_truman_mixed_date_ccadf1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2523,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.7123,
+        "content_cleanup_final": 0.0426,
+        "media_svg": 12.2757,
+        "youtube": 0.019,
+        "content_assembly": 0.9679,
+        "monetization": 0.1394,
+        "quality_write": 0.068
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_cutler_delegation_si_b3d699",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1256,
+      "phases": {
+        "preparation": 0.0338,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.9202,
+        "content_cleanup_final": 0.0701,
+        "media_svg": 11.8332,
+        "youtube": 0.0196,
+        "content_assembly": 1.0318,
+        "monetization": 0.1424,
+        "quality_write": 0.0734
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_james_lay_july14_com_5a8600",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8096,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6317,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 11.8768,
+        "youtube": 0.0206,
+        "content_assembly": 0.9979,
+        "monetization": 0.1472,
+        "quality_write": 0.0739
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_july16_missing_brief_27af71",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8858,
+      "phases": {
+        "preparation": 0.0373,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8082,
+        "content_cleanup_final": 0.0416,
+        "media_svg": 11.7033,
+        "youtube": 0.0199,
+        "content_assembly": 0.9784,
+        "monetization": 0.2151,
+        "quality_write": 0.0811
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_travel_date_7065ab_lay_authorship_archi_0bea3f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.4386,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.5553,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 11.8388,
+        "youtube": 0.0172,
+        "content_assembly": 0.8068,
+        "monetization": 0.1247,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_surrounding_records_f3f620",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9498,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.9732,
+        "content_cleanup_final": 0.0409,
+        "media_svg": 11.6958,
+        "youtube": 0.0169,
+        "content_assembly": 0.983,
+        "monetization": 0.1442,
+        "quality_write": 0.0624
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_s2_volume_illusion_a4b49a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 18.1108,
+      "phases": {
+        "preparation": 0.1219,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8664,
+        "content_cleanup_final": 0.0757,
+        "media_svg": 12.1212,
+        "youtube": 0.0319,
+        "content_assembly": 0.9805,
+        "monetization": 1.8304,
+        "quality_write": 0.0823
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_expected_paper_aec7fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2207,
+      "phases": {
+        "preparation": 0.0321,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.6206,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 11.8782,
+        "youtube": 0.051,
+        "content_assembly": 1.2851,
+        "monetization": 0.1793,
+        "quality_write": 0.1416
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_federal_archive_sear_68c0b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.7676,
+      "phases": {
+        "preparation": 0.0309,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6382,
+        "content_cleanup_final": 0.0542,
+        "media_svg": 11.7825,
+        "youtube": 0.0351,
+        "content_assembly": 0.9164,
+        "monetization": 0.2119,
+        "quality_write": 0.0975
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171_supporters_authentic_4c41c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.5542,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8449,
+        "content_cleanup_final": 0.061,
+        "media_svg": 12.2642,
+        "youtube": 0.0215,
+        "content_assembly": 1.0493,
+        "monetization": 0.2147,
+        "quality_write": 0.0658
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_dallas_fbi_mj12_resp_01ea41",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.4822,
+      "phases": {
+        "preparation": 0.0375,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6752,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 11.6493,
+        "youtube": 0.0179,
+        "content_assembly": 0.8944,
+        "monetization": 0.1065,
+        "quality_write": 0.0658
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_fbi_mj12_assessment_7b27bd_fbi_mj12_file_limits_9ba580",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1517,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.976,
+        "content_cleanup_final": 0.0709,
+        "media_svg": 11.8048,
+        "youtube": 0.0273,
+        "content_assembly": 0.994,
+        "monetization": 0.1679,
+        "quality_write": 0.0829
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_cutler_twining_memo_b4b4f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1415,
+      "phases": {
+        "preparation": 0.0315,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7521,
+        "content_cleanup_final": 0.0407,
+        "media_svg": 12.1565,
+        "youtube": 0.0176,
+        "content_assembly": 0.9127,
+        "monetization": 0.1505,
+        "quality_write": 0.0789
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_glomar_mj12_records_88a2e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6238,
+      "phases": {
+        "preparation": 0.0317,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.1938,
+        "content_cleanup_final": 0.1215,
+        "media_svg": 11.7746,
+        "youtube": 0.0181,
+        "content_assembly": 1.1947,
+        "monetization": 0.1662,
+        "quality_write": 0.1219
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_restricted_handling_b1a263",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.102,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.9621,
+        "content_cleanup_final": 0.0654,
+        "media_svg": 11.7376,
+        "youtube": 0.0165,
+        "content_assembly": 1.051,
+        "monetization": 0.1617,
+        "quality_write": 0.0793
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_typeface_vs_machine_660549",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.946,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8098,
+        "content_cleanup_final": 0.0567,
+        "media_svg": 12.0421,
+        "youtube": 0.0201,
+        "content_assembly": 1.0101,
+        "monetization": 0.8743,
+        "quality_write": 0.1036
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_four_bodies_32f81d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9345,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 3.4326,
+        "content_cleanup_final": 0.1211,
+        "media_svg": 11.8704,
+        "youtube": 0.0207,
+        "content_assembly": 1.2745,
+        "monetization": 0.0863,
+        "quality_write": 0.1031
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_lost_control_sheet_h_8f7605",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.0442,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.7584,
+        "content_cleanup_final": 0.0454,
+        "media_svg": 11.873,
+        "youtube": 0.0195,
+        "content_assembly": 1.1014,
+        "monetization": 0.1434,
+        "quality_write": 0.0757
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_misfiling_vs_later_i_0e04ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9872,
+      "phases": {
+        "preparation": 0.035,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8019,
+        "content_cleanup_final": 0.0504,
+        "media_svg": 12.1024,
+        "youtube": 0.0235,
+        "content_assembly": 1.0731,
+        "monetization": 0.8303,
+        "quality_write": 0.0696
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_nara_filing_system_m_6e48cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9112,
+      "phases": {
+        "preparation": 0.0291,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.76,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 11.879,
+        "youtube": 0.0291,
+        "content_assembly": 0.9677,
+        "monetization": 0.1524,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107_top_secret_rules_195_603b84",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9035,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6985,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 11.9371,
+        "youtube": 0.0185,
+        "content_assembly": 0.9847,
+        "monetization": 0.1313,
+        "quality_write": 0.0685
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_cia_nsc_mj12_timing_53a1ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8606,
+      "phases": {
+        "preparation": 0.0335,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8252,
+        "content_cleanup_final": 0.0643,
+        "media_svg": 11.7787,
+        "youtube": 0.0186,
+        "content_assembly": 0.9903,
+        "monetization": 0.0782,
+        "quality_write": 0.0705
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_afosi_fabricated_fin_ea32ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9456,
+      "phases": {
+        "preparation": 0.0437,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.7519,
+        "content_cleanup_final": 0.0581,
+        "media_svg": 11.8858,
+        "youtube": 0.0296,
+        "content_assembly": 0.9344,
+        "monetization": 0.1367,
+        "quality_write": 0.1041
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_cutler_twining_anoma_03c99a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2135,
+      "phases": {
+        "preparation": 0.0306,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.9735,
+        "content_cleanup_final": 0.1588,
+        "media_svg": 11.7891,
+        "youtube": 0.0199,
+        "content_assembly": 0.9637,
+        "monetization": 0.1756,
+        "quality_write": 0.1014
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_air_force_fake_deter_728750_scope_of_1988_verdic_99f20f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4644,
+      "phases": {
+        "preparation": 0.0347,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.8995,
+        "content_cleanup_final": 0.0928,
+        "media_svg": 12.0591,
+        "youtube": 0.0313,
+        "content_assembly": 1.0858,
+        "monetization": 0.1762,
+        "quality_write": 0.0835
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_cutler_absence_autho_7cf721",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1709,
+      "phases": {
+        "preparation": 0.0458,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.554,
+        "content_cleanup_final": 0.0388,
+        "media_svg": 11.6417,
+        "youtube": 0.0204,
+        "content_assembly": 0.9381,
+        "monetization": 0.8551,
+        "quality_write": 0.0761
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_anomaly_vs_falsifica_7cdc03_mj12_archival_silenc_0696e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.3777,
+      "phases": {
+        "preparation": 0.0307,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.9675,
+        "content_cleanup_final": 0.0621,
+        "media_svg": 11.4871,
+        "youtube": 0.0406,
+        "content_assembly": 1.0338,
+        "monetization": 0.6845,
+        "quality_write": 0.0699
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_missing_chain_o_5d2c03",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8569,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 2.705,
+        "content_cleanup_final": 0.0504,
+        "media_svg": 11.8284,
+        "youtube": 0.026,
+        "content_assembly": 0.9911,
+        "monetization": 0.15,
+        "quality_write": 0.0767
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_mj12_photo_authentic_fa3f90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9239,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 3.3115,
+        "content_cleanup_final": 0.1017,
+        "media_svg": 11.8179,
+        "youtube": 0.012,
+        "content_assembly": 1.4033,
+        "monetization": 0.1568,
+        "quality_write": 0.0897
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_anonymous_film_prove_219904_shandera_1984_film_d_e0ccf2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.0885,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8121,
+        "content_cleanup_final": 0.0657,
+        "media_svg": 11.9572,
+        "youtube": 0.0181,
+        "content_assembly": 0.9976,
+        "monetization": 0.1521,
+        "quality_write": 0.0617
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_archival_later_inser_aaa813",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.5582,
+      "phases": {
+        "preparation": 0.0354,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8236,
+        "content_cleanup_final": 0.0617,
+        "media_svg": 12.3606,
+        "youtube": 0.0239,
+        "content_assembly": 1.0306,
+        "monetization": 0.1509,
+        "quality_write": 0.0706
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_archives_custody_aut_5a0638",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.661,
+      "phases": {
+        "preparation": 0.0343,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 3.161,
+        "content_cleanup_final": 0.0684,
+        "media_svg": 12.0322,
+        "youtube": 0.0336,
+        "content_assembly": 1.0774,
+        "monetization": 0.1686,
+        "quality_write": 0.0847
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_cutler_twining_prove_338a30",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1089,
+      "phases": {
+        "preparation": 0.0325,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8269,
+        "content_cleanup_final": 0.0471,
+        "media_svg": 12.0407,
+        "youtube": 0.0254,
+        "content_assembly": 0.9678,
+        "monetization": 0.1035,
+        "quality_write": 0.0645
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa_planted_genuine_evid_9d829a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1099,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.9212,
+        "content_cleanup_final": 0.0686,
+        "media_svg": 11.7177,
+        "youtube": 0.0311,
+        "content_assembly": 1.0605,
+        "monetization": 0.2059,
+        "quality_write": 0.0736
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_contextual_file_e08c3a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9245,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0028,
+        "internal_links": 3.5375,
+        "content_cleanup_final": 0.1244,
+        "media_svg": 11.5402,
+        "youtube": 0.0238,
+        "content_assembly": 1.3841,
+        "monetization": 0.1731,
+        "quality_write": 0.1096
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_cross_office_ma_3cea95",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.3964,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 3.1704,
+        "content_cleanup_final": 0.0641,
+        "media_svg": 11.7698,
+        "youtube": 0.0353,
+        "content_assembly": 1.0393,
+        "monetization": 0.2098,
+        "quality_write": 0.0801
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_forensic_conver_58b721",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.551,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 3.0057,
+        "content_cleanup_final": 0.0664,
+        "media_svg": 11.9509,
+        "youtube": 0.0136,
+        "content_assembly": 1.0983,
+        "monetization": 0.2759,
+        "quality_write": 0.1047
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_government_cust_199287",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9907,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0039,
+        "internal_links": 3.5599,
+        "content_cleanup_final": 0.1354,
+        "media_svg": 11.6397,
+        "youtube": 0.0445,
+        "content_assembly": 1.3018,
+        "monetization": 0.1768,
+        "quality_write": 0.1039
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_authentication_evide_8d98b9_mj12_independent_age_f02d39",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.3092,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.9368,
+        "content_cleanup_final": 0.07,
+        "media_svg": 11.8945,
+        "youtube": 0.0202,
+        "content_assembly": 1.1228,
+        "monetization": 0.1659,
+        "quality_write": 0.0692
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad_missing_number_forge_d481f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9484,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.9346,
+        "content_cleanup_final": 0.0396,
+        "media_svg": 12.0061,
+        "youtube": 0.0246,
+        "content_assembly": 1.0851,
+        "monetization": 0.7603,
+        "quality_write": 0.0727
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_cooper_cache_fabrica_71f4cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1435,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6221,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 12.1511,
+        "youtube": 0.0258,
+        "content_assembly": 1.0216,
+        "monetization": 0.1604,
+        "quality_write": 0.0728
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_cutler_twining_anoma_03c99a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2264,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.7596,
+        "content_cleanup_final": 0.0457,
+        "media_svg": 12.2205,
+        "youtube": 0.0325,
+        "content_assembly": 0.9314,
+        "monetization": 0.1287,
+        "quality_write": 0.071
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_friedman_split_verdi_8b4585",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1071,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8451,
+        "content_cleanup_final": 0.0386,
+        "media_svg": 11.9702,
+        "youtube": 0.0188,
+        "content_assembly": 0.9993,
+        "monetization": 0.1373,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_core_vs_later_docume_134d6d_mj12_1984_film_prove_3472da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.5261,
+      "phases": {
+        "preparation": 0.0351,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.6521,
+        "content_cleanup_final": 0.0388,
+        "media_svg": 11.6042,
+        "youtube": 0.0203,
+        "content_assembly": 0.9794,
+        "monetization": 0.1365,
+        "quality_write": 0.0591
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_filing_location_anom_903df1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8698,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.9345,
+        "content_cleanup_final": 0.046,
+        "media_svg": 11.6182,
+        "youtube": 0.0382,
+        "content_assembly": 0.9803,
+        "monetization": 0.1505,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_paper_watermark_disp_525b43",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1449,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5018,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 12.4658,
+        "youtube": 0.0218,
+        "content_assembly": 0.876,
+        "monetization": 0.1539,
+        "quality_write": 0.0707
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_cutler_twining_authe_5cbab1_possible_archive_ins_147ae4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9859,
+      "phases": {
+        "preparation": 0.0333,
+        "content_cleanup_initial": 0.0037,
+        "internal_links": 2.9712,
+        "content_cleanup_final": 0.0622,
+        "media_svg": 11.6571,
+        "youtube": 0.0209,
+        "content_assembly": 0.9322,
+        "monetization": 0.2104,
+        "quality_write": 0.0948
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_gao_executive_branch_a162d6_custody_vs_authentic_545101",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2235,
+      "phases": {
+        "preparation": 0.0334,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.881,
+        "content_cleanup_final": 0.0472,
+        "media_svg": 11.9734,
+        "youtube": 0.0284,
+        "content_assembly": 0.9895,
+        "monetization": 0.1922,
+        "quality_write": 0.0775
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_lay_cutler_working_r_c0140c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6266,
+      "phases": {
+        "preparation": 0.0292,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.7823,
+        "content_cleanup_final": 0.0502,
+        "media_svg": 12.503,
+        "youtube": 0.0189,
+        "content_assembly": 1.0141,
+        "monetization": 0.1661,
+        "quality_write": 0.0616
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_lay_july16_delegatio_16dab7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9847,
+      "phases": {
+        "preparation": 0.0306,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4612,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 12.2906,
+        "youtube": 0.0231,
+        "content_assembly": 0.9211,
+        "monetization": 0.1535,
+        "quality_write": 0.0699
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_james_lay_delegation_ed0688_proof_for_lay_author_c0a2cd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6534,
+      "phases": {
+        "preparation": 0.0331,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.6968,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 11.8006,
+        "youtube": 0.0193,
+        "content_assembly": 0.8766,
+        "monetization": 0.1399,
+        "quality_write": 0.0666
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b_mj12_photocopy_probl_bd86ef",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.79,
+      "phases": {
+        "preparation": 0.0341,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.9992,
+        "content_cleanup_final": 0.0761,
+        "media_svg": 12.0749,
+        "youtube": 0.0313,
+        "content_assembly": 1.0664,
+        "monetization": 1.4326,
+        "quality_write": 0.0747
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb_forrestal_replacemen_238676",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.3336,
+      "phases": {
+        "preparation": 0.0343,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 3.2912,
+        "content_cleanup_final": 0.0716,
+        "media_svg": 11.5538,
+        "youtube": 0.0156,
+        "content_assembly": 1.0996,
+        "monetization": 0.1666,
+        "quality_write": 0.0999
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_cutler_travel_memo_c_1b6c31",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.779,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.6142,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 11.8141,
+        "youtube": 0.0163,
+        "content_assembly": 1.059,
+        "monetization": 0.1562,
+        "quality_write": 0.0553
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_gao_mj12_records_fin_79fb1c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2084,
+      "phases": {
+        "preparation": 0.022,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.8275,
+        "content_cleanup_final": 0.054,
+        "media_svg": 12.0426,
+        "youtube": 0.0142,
+        "content_assembly": 1.0165,
+        "monetization": 0.1598,
+        "quality_write": 0.0712
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_national_archives_mj_737dbb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7075,
+      "phases": {
+        "preparation": 0.0336,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.7675,
+        "content_cleanup_final": 0.0378,
+        "media_svg": 11.8812,
+        "youtube": 0.0302,
+        "content_assembly": 0.994,
+        "monetization": 0.8723,
+        "quality_write": 0.0898
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5_nsc_missing_mj12_ref_c2bc80",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6845,
+      "phases": {
+        "preparation": 0.0387,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.5128,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 11.9978,
+        "youtube": 0.0237,
+        "content_assembly": 0.8676,
+        "monetization": 0.1564,
+        "quality_write": 0.0613
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_archives_custody_aut_5a0638",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2948,
+      "phases": {
+        "preparation": 0.0381,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.8654,
+        "content_cleanup_final": 0.0465,
+        "media_svg": 12.0088,
+        "youtube": 0.0242,
+        "content_assembly": 1.1081,
+        "monetization": 0.1345,
+        "quality_write": 0.0676
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cia_mj12_record_sear_da2910",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.0091,
+      "phases": {
+        "preparation": 0.0353,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 3.0261,
+        "content_cleanup_final": 0.0522,
+        "media_svg": 11.6635,
+        "youtube": 0.0195,
+        "content_assembly": 1.0003,
+        "monetization": 0.1326,
+        "quality_write": 0.078
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c_cutler_twining_filin_9e2023",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8685,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.6097,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 12.0309,
+        "youtube": 0.0278,
+        "content_assembly": 0.9443,
+        "monetization": 0.1321,
+        "quality_write": 0.0675
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_dulles_three_date_fo_98e64e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.3965,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.8289,
+        "content_cleanup_final": 0.0471,
+        "media_svg": 12.3259,
+        "youtube": 0.035,
+        "content_assembly": 0.9525,
+        "monetization": 0.1177,
+        "quality_write": 0.0585
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_gov_date_rules_pract_71faa6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4535,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 3.0196,
+        "content_cleanup_final": 0.0677,
+        "media_svg": 11.8805,
+        "youtube": 0.02,
+        "content_assembly": 1.2334,
+        "monetization": 0.115,
+        "quality_write": 0.0886
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_hillenkoetter_date_v_883e81",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6457,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.986,
+        "content_cleanup_final": 0.0526,
+        "media_svg": 12.1874,
+        "youtube": 0.0213,
+        "content_assembly": 1.1464,
+        "monetization": 0.1345,
+        "quality_write": 0.0888
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc_mj12_leading_zero_da_b9033e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.57,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.7653,
+        "content_cleanup_final": 0.0721,
+        "media_svg": 12.495,
+        "youtube": 0.0204,
+        "content_assembly": 0.9981,
+        "monetization": 0.1184,
+        "quality_write": 0.0704
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_cutler_twining_recor_6c2fc1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9709,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8266,
+        "content_cleanup_final": 0.0625,
+        "media_svg": 11.6859,
+        "youtube": 0.027,
+        "content_assembly": 1.092,
+        "monetization": 0.1752,
+        "quality_write": 0.0696
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_mj12_archive_searche_2c98f1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.0043,
+      "phases": {
+        "preparation": 0.0341,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.743,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 12.0099,
+        "youtube": 0.0282,
+        "content_assembly": 0.9422,
+        "monetization": 0.1511,
+        "quality_write": 0.0627
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_mj12_missing_records_2b6289",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1463,
+      "phases": {
+        "preparation": 0.0327,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.9899,
+        "content_cleanup_final": 0.06,
+        "media_svg": 12.0283,
+        "youtube": 0.031,
+        "content_assembly": 1.0301,
+        "monetization": 0.905,
+        "quality_write": 0.0677
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b_secret_program_admin_333b9a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.8418,
+      "phases": {
+        "preparation": 0.0358,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.5059,
+        "content_cleanup_final": 0.1074,
+        "media_svg": 11.6344,
+        "youtube": 0.0243,
+        "content_assembly": 1.1903,
+        "monetization": 0.2224,
+        "quality_write": 0.1198
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_eisenhower_classific_99c19a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4241,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.9341,
+        "content_cleanup_final": 0.0376,
+        "media_svg": 12.0247,
+        "youtube": 0.0199,
+        "content_assembly": 1.1309,
+        "monetization": 0.1566,
+        "quality_write": 0.0727
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_security_markin_9b54bd_missing_register_num_36da99",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1651,
+      "phases": {
+        "preparation": 0.031,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.7001,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 12.2943,
+        "youtube": 0.0279,
+        "content_assembly": 0.8646,
+        "monetization": 0.1518,
+        "quality_write": 0.0638
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_cutler_pica_challeng_0eb05f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4047,
+      "phases": {
+        "preparation": 0.0309,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.7076,
+        "content_cleanup_final": 0.0593,
+        "media_svg": 11.7795,
+        "youtube": 0.0154,
+        "content_assembly": 0.931,
+        "monetization": 0.7951,
+        "quality_write": 0.0853
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a_white_house_typewrit_897b8e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.3932,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.7349,
+        "content_cleanup_final": 0.0688,
+        "media_svg": 11.6067,
+        "youtube": 0.0265,
+        "content_assembly": 0.9819,
+        "monetization": 0.8842,
+        "quality_write": 0.0607
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_cutler_twining_paper_fc6338",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6832,
+      "phases": {
+        "preparation": 0.0373,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.823,
+        "content_cleanup_final": 0.0457,
+        "media_svg": 11.8776,
+        "youtube": 0.0386,
+        "content_assembly": 1.0085,
+        "monetization": 0.783,
+        "quality_write": 0.0687
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_cutler_twining_regis_42ddd3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9478,
+      "phases": {
+        "preparation": 0.0375,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.853,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 11.7674,
+        "youtube": 0.0178,
+        "content_assembly": 1.0296,
+        "monetization": 0.1369,
+        "quality_write": 0.0688
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_mj12_briefing_record_f608df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6215,
+      "phases": {
+        "preparation": 0.0319,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 3.0442,
+        "content_cleanup_final": 0.0766,
+        "media_svg": 12.1265,
+        "youtube": 0.0397,
+        "content_assembly": 1.0569,
+        "monetization": 0.1669,
+        "quality_write": 0.0776
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_cumulative_paper_ano_9a009f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6007,
+      "phases": {
+        "preparation": 0.0312,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5361,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 12.0013,
+        "youtube": 0.0191,
+        "content_assembly": 0.7943,
+        "monetization": 0.15,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_national_archives_an_b09c3c_nara_missing_mj12_tr_9e5a5b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4395,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0023,
+        "internal_links": 3.2215,
+        "content_cleanup_final": 0.0731,
+        "media_svg": 12.0491,
+        "youtube": 0.0251,
+        "content_assembly": 1.1021,
+        "monetization": 0.8594,
+        "quality_write": 0.0787
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_cutler_sample_streng_4ba4b5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1145,
+      "phases": {
+        "preparation": 0.0328,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.7391,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 12.0893,
+        "youtube": 0.02,
+        "content_assembly": 0.9793,
+        "monetization": 0.1586,
+        "quality_write": 0.061
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_eagle_watermark_disp_5e6100",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.5255,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5243,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 11.9147,
+        "youtube": 0.0223,
+        "content_assembly": 0.8103,
+        "monetization": 0.1436,
+        "quality_write": 0.0646
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_period_vs_office_pap_0db3f4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8078,
+      "phases": {
+        "preparation": 0.0393,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5635,
+        "content_cleanup_final": 0.0296,
+        "media_svg": 12.0027,
+        "youtube": 0.0203,
+        "content_assembly": 0.9513,
+        "monetization": 0.1387,
+        "quality_write": 0.0613
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_paper_letterhead_for_a6c73e_ribbon_vs_carbon_cop_1c2ea4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8468,
+      "phases": {
+        "preparation": 0.0359,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.7878,
+        "content_cleanup_final": 0.0411,
+        "media_svg": 11.8125,
+        "youtube": 0.0321,
+        "content_assembly": 0.9328,
+        "monetization": 0.1416,
+        "quality_write": 0.0623
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_mj12_roswell_1947_ti_c39880",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1572,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7517,
+        "content_cleanup_final": 0.0571,
+        "media_svg": 12.1052,
+        "youtube": 0.021,
+        "content_assembly": 0.9936,
+        "monetization": 0.1379,
+        "quality_write": 0.0631
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_balloon_cove_942dbe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4771,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.6387,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 11.9935,
+        "youtube": 0.0132,
+        "content_assembly": 0.8261,
+        "monetization": 1.8799,
+        "quality_write": 0.0654
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_roswell_mj12_narrati_1b15a1_roswell_debris_space_cd77ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6383,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0023,
+        "internal_links": 3.1981,
+        "content_cleanup_final": 0.1369,
+        "media_svg": 11.7761,
+        "youtube": 0.0267,
+        "content_assembly": 1.1953,
+        "monetization": 0.1949,
+        "quality_write": 0.0829
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_film_provenan_9ea59a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.578,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.529,
+        "content_cleanup_final": 0.0399,
+        "media_svg": 11.6885,
+        "youtube": 0.0283,
+        "content_assembly": 0.9921,
+        "monetization": 0.1784,
+        "quality_write": 0.0952
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_missing_origi_cee1fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9467,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.8069,
+        "content_cleanup_final": 0.0605,
+        "media_svg": 11.8366,
+        "youtube": 0.0125,
+        "content_assembly": 0.9998,
+        "monetization": 0.129,
+        "quality_write": 0.0702
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_period_detail_060208",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.0173,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5205,
+        "content_cleanup_final": 0.0363,
+        "media_svg": 12.3235,
+        "youtube": 0.0109,
+        "content_assembly": 0.9108,
+        "monetization": 0.1221,
+        "quality_write": 0.0679
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_separate_auth_f7b3a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.8589,
+      "phases": {
+        "preparation": 0.0312,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.8189,
+        "content_cleanup_final": 0.0521,
+        "media_svg": 11.9482,
+        "youtube": 0.0193,
+        "content_assembly": 1.093,
+        "monetization": 0.8125,
+        "quality_write": 0.0831
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09_som101_typography_19_e306bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.5395,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.9539,
+        "content_cleanup_final": 0.0489,
+        "media_svg": 12.2653,
+        "youtube": 0.0121,
+        "content_assembly": 1.0671,
+        "monetization": 1.0992,
+        "quality_write": 0.0663
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_friedman_rejected_mj_bce165",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1972,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.894,
+        "content_cleanup_final": 0.0437,
+        "media_svg": 11.8849,
+        "youtube": 0.0212,
+        "content_assembly": 1.0959,
+        "monetization": 0.1653,
+        "quality_write": 0.0625
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_stanton_friedman_def_cd398b_friedman_three_docum_937129",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.2411,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3385,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 11.7668,
+        "youtube": 0.0224,
+        "content_assembly": 0.8571,
+        "monetization": 0.149,
+        "quality_write": 0.0588
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cantwheel_provenance_50036b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6279,
+      "phases": {
+        "preparation": 0.0316,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7631,
+        "content_cleanup_final": 0.033,
+        "media_svg": 11.6634,
+        "youtube": 0.0199,
+        "content_assembly": 0.9341,
+        "monetization": 0.1154,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cooper_chain_of_cust_f44dbb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.0843,
+      "phases": {
+        "preparation": 0.0292,
+        "content_cleanup_initial": 0.0024,
+        "internal_links": 2.9371,
+        "content_cleanup_final": 0.0623,
+        "media_svg": 11.8969,
+        "youtube": 0.0232,
+        "content_assembly": 1.1215,
+        "monetization": 0.9267,
+        "quality_write": 0.085
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_timothy_cooper_docum_076727_cooper_typewriter_di_475a1c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9194,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.7623,
+        "content_cleanup_final": 0.0571,
+        "media_svg": 12.1407,
+        "youtube": 0.0255,
+        "content_assembly": 1.0085,
+        "monetization": 0.8091,
+        "quality_write": 0.0889
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_truman_memo_sequence_3539ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4988,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 3.1711,
+        "content_cleanup_final": 0.0479,
+        "media_svg": 11.9939,
+        "youtube": 0.0216,
+        "content_assembly": 1.0111,
+        "monetization": 0.1466,
+        "quality_write": 0.0779
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_truman_sept24_meetin_66d5d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3924,
+      "phases": {
+        "preparation": 0.0335,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6446,
+        "content_cleanup_final": 0.0391,
+        "media_svg": 11.7211,
+        "youtube": 0.0134,
+        "content_assembly": 0.7843,
+        "monetization": 0.0778,
+        "quality_write": 0.0779
+      }
+    },
+    {
+      "base_name": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_truman_signing_devic_c2b162",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.8813,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7008,
+        "content_cleanup_final": 0.0378,
+        "media_svg": 10.0438,
+        "youtube": 0.0164,
+        "content_assembly": 0.8688,
+        "monetization": 0.1318,
+        "quality_write": 0.0529
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 117,
+    "reused_pages": 94,
+    "rebuilt_pages": 117,
+    "error_pages": 0,
+    "page_work_wall_seconds": 693.8657,
+    "rebuilt_pages_per_minute": 10.1172,
+    "queued_rebuild_pages_per_minute": 10.1172,
+    "apparent_page_work_speedup": 2.8453,
+    "youtube_cache_prepare": {
+      "entries": 41840,
+      "updated": true,
+      "elapsed_seconds": 5.0536
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 117,
+      "successful_pages": 117,
+      "failed_pages": 0,
+      "worker_summary": {
+        "34460": {
+          "pages": 40,
+          "successes": 40,
+          "failures": 0,
+          "total_worker_seconds": 670.435,
+          "max_worker_seconds": 25.6298,
+          "last_base_name": "alleged_mj12_documen_5d9d42_truman_forrestal_sig_20081d_truman_signing_devic_c2b162"
+        },
+        "37740": {
+          "pages": 39,
+          "successes": 39,
+          "failures": 0,
+          "total_worker_seconds": 654.8618,
+          "max_worker_seconds": 24.2134,
+          "last_base_name": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_truman_sept24_meetin_66d5d2"
+        },
+        "3744": {
+          "pages": 38,
+          "successes": 38,
+          "failures": 0,
+          "total_worker_seconds": 655.6738,
+          "max_worker_seconds": 28.2236,
+          "last_base_name": "alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc_truman_memo_sequence_3539ba"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_eisenhower_briefing_24f171",
+          "level": 2,
+          "success": true,
+          "worker_pid": 3744,
+          "worker_duration_seconds": 28.2236,
+          "total_seconds": 28.1606,
+          "worker_started_at_utc": "2026-08-15T21:23:03.386114Z",
+          "worker_finished_at_utc": "2026-08-15T21:23:31.546745Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c",
+          "level": 2,
+          "success": true,
+          "worker_pid": 34460,
+          "worker_duration_seconds": 25.6298,
+          "total_seconds": 25.5731,
+          "worker_started_at_utc": "2026-08-15T21:23:58.052668Z",
+          "worker_finished_at_utc": "2026-08-15T21:24:23.625813Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_top_secret_register_6d7107",
+          "level": 2,
+          "success": true,
+          "worker_pid": 37740,
+          "worker_duration_seconds": 24.2134,
+          "total_seconds": 24.1544,
+          "worker_started_at_utc": "2026-08-15T21:23:07.217057Z",
+          "worker_finished_at_utc": "2026-08-15T21:23:31.371538Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_control_number_objec_f6faad",
+          "level": 2,
+          "success": true,
+          "worker_pid": 3744,
+          "worker_duration_seconds": 22.5715,
+          "total_seconds": 22.5137,
+          "worker_started_at_utc": "2026-08-15T21:23:31.611880Z",
+          "worker_finished_at_utc": "2026-08-15T21:23:54.125621Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_mj12_secrecy_verific_491d7b",
+          "level": 2,
+          "success": true,
+          "worker_pid": 37740,
+          "worker_duration_seconds": 22.2008,
+          "total_seconds": 22.1371,
+          "worker_started_at_utc": "2026-08-15T21:24:09.335710Z",
+          "worker_finished_at_utc": "2026-08-15T21:24:31.472824Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42",
+          "level": 1,
+          "success": true,
+          "worker_pid": 34460,
+          "worker_duration_seconds": 21.6064,
+          "total_seconds": 21.5485,
+          "worker_started_at_utc": "2026-08-15T21:22:59.827118Z",
+          "worker_finished_at_utc": "2026-08-15T21:23:21.375669Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_archive_location_pro_de5dfa",
+          "level": 2,
+          "success": true,
+          "worker_pid": 37740,
+          "worker_duration_seconds": 21.403,
+          "total_seconds": 21.3411,
+          "worker_started_at_utc": "2026-08-15T21:23:31.432106Z",
+          "worker_finished_at_utc": "2026-08-15T21:23:52.773261Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a",
+          "level": 2,
+          "success": true,
+          "worker_pid": 3744,
+          "worker_duration_seconds": 19.6237,
+          "total_seconds": 19.5717,
+          "worker_started_at_utc": "2026-08-15T21:24:13.576459Z",
+          "worker_finished_at_utc": "2026-08-15T21:24:33.148256Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09",
+          "level": 2,
+          "success": true,
+          "worker_pid": 37740,
+          "worker_duration_seconds": 19.5884,
+          "total_seconds": 19.5254,
+          "worker_started_at_utc": "2026-08-15T21:24:31.538717Z",
+          "worker_finished_at_utc": "2026-08-15T21:24:51.064175Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "alleged_mj12_documen_5d9d42_missing_government_r_861fa5",
+          "level": 2,
+          "success": true,
+          "worker_pid": 3744,
+          "worker_duration_seconds": 19.3892,
+          "total_seconds": 19.3148,
+          "worker_started_at_utc": "2026-08-15T21:23:54.184593Z",
+          "worker_finished_at_utc": "2026-08-15T21:24:13.499425Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

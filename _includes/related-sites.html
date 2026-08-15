@@ -1,0 +1,12 @@
+{% assign related_sites = site.data.cross_site_relationships.site_links | default: empty %}
+{% if is_home and related_sites.size > 0 %}
+<aside class="related-sites" aria-labelledby="related-sites-heading">
+  <p class="related-sites-kicker">Related Phoenix sites</p>
+  <h2 id="related-sites-heading">Explore this focus across the network</h2>
+  <ul class="related-sites-links">
+    {% for link in related_sites limit: 8 %}
+    <li><a href="{{ link.url | escape }}">{{ link.label | escape }}</a></li>
+    {% endfor %}
+  </ul>
+</aside>
+{% endif %}
