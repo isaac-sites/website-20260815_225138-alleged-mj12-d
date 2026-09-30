@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 05:02:00'
+last_modified_at: '2026-08-15 05:02:00'
 parent_title: What Evidence Would Actually Authenticate MJ 12? | Majestic 12
 parent_permalink: /proof-needed/
 parent_nav_short_title: Proof Needed

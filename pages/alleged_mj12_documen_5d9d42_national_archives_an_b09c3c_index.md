@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-national/
 description: Focused pages that expand on Archive Anomalies.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_national_archives_an_b09c3c
 parent_title: Archive Anomalies | The Alleged MJ 12 Documents

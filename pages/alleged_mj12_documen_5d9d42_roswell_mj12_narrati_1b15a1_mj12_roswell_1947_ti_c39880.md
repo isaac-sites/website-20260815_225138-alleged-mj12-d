@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 06:59:02'
+last_modified_at: '2026-08-15 06:59:02'
 parent_title: How the MJ 12 Papers Recast the Roswell Story | Majestic 12
 parent_permalink: /roswell-link/
 parent_nav_short_title: Roswell Link

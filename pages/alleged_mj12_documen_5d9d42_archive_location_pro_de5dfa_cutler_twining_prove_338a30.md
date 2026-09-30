@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 22:09:14'
+last_modified_at: '2026-08-15 22:09:14'
 parent_title: Does an Archive Location Prove a Document Is Genuine? | Majestic 12
 parent_permalink: /archive-provenance/
 parent_nav_short_title: Archive Provenance

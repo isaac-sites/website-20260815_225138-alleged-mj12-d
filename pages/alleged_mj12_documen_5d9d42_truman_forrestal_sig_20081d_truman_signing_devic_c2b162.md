@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 08:40:39'
+last_modified_at: '2026-08-14 08:40:39'
 parent_title: Does the Truman Signature Prove Forgery? | Majestic 12
 parent_permalink: /truman-memo/
 parent_nav_short_title: Truman Memo
