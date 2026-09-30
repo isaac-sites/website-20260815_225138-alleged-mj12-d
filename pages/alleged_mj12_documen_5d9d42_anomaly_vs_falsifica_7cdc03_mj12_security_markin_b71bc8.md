@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 03:26:34'
+last_modified_at: '2026-08-15 03:26:34'
 parent_title: Which MJ 12 Anomalies Would Actually Prove Forgery? | The Alleged MJ 12 Documents
 parent_permalink: /anomaly-tests/
 parent_nav_short_title: Anomaly Tests

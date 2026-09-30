@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-som1-01/
 description: Focused pages that expand on SOM 1 01.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_som1_01_authenticity_cdbf09
 parent_title: SOM 1 01 | The Alleged MJ 12 Documents

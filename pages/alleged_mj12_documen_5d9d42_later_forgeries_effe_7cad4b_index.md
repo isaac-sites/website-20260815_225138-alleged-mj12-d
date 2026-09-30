@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-later/
 description: Focused pages that expand on Later Forgeries.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_later_forgeries_effe_7cad4b
 parent_title: Later Forgeries | The Alleged MJ 12 Documents

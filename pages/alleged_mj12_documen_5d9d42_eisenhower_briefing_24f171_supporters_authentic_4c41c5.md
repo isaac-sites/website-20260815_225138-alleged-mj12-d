@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 08:03:57'
+last_modified_at: '2026-08-14 08:03:57'
 parent_title: Is the Eisenhower MJ 12 Briefing Authentic? | Majestic 12
 parent_permalink: /the-eisenhower-briefing-document/
 parent_nav_short_title: The Eisenhower Briefing Document

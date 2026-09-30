@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-truman/
 description: Focused pages that expand on Truman Timeline.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_truman_1947_authoriz_cea4cc
 parent_title: Truman Timeline

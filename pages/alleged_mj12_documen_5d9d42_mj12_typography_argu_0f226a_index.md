@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-mj12/
 description: Focused pages that expand on Typography.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_mj12_typography_argu_0f226a
 parent_title: Typography | The Alleged MJ 12 Documents

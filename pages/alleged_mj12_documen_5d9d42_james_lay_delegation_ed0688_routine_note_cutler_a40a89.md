@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 23:21:50'
+last_modified_at: '2026-08-14 23:21:50'
 parent_title: Could James Lay Explain the Unsigned Memo? | The Alleged MJ 12 Documents
 parent_permalink: /james-lay-theory/
 parent_nav_short_title: James Lay Theory

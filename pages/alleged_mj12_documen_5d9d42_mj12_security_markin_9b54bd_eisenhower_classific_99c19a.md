@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 20:22:04'
+last_modified_at: '2026-08-14 20:22:04'
 parent_title: Do MJ 12 Security Markings Fit the 1950 s? | Majestic 12
 parent_permalink: /security-markings/
 parent_nav_short_title: Security Markings
