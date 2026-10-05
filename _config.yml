@@ -235,3 +235,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+
+# og:image default for pages without their own social image
+# (jekyll-seo-tag has no image fallback of its own; the head include
+# renders this when the page carries no image).
+og_image_default: /assets/images/alleged_mj12_documen_5d9d42-Illustration-1-social-12c3f4d859.jpg
