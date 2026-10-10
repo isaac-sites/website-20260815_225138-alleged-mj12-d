@@ -6,7 +6,7 @@ title_full: Secrecy Problem Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /alleged-mj12-documen-5d9d42-mj12/
+permalink: /alleged-mj12-documen-5d9d42-mj12-secrecy-problem/
 description: Focused pages that expand on Secrecy Problem.
 date: '2026'
 last_modified_at: '2026'
