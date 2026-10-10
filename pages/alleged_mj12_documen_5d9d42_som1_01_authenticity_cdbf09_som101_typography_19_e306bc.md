@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 22:17:07'
+last_modified_at: '2026-08-15 22:17:07'
 parent_title: Where Does the SOM 1 01 Manual Fit? | The Alleged MJ 12 Documents
 parent_permalink: /som-1-01/
 parent_nav_short_title: SOM 1 01

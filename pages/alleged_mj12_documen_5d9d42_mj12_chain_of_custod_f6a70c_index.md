@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-mj12-chain/
 description: Focused pages that expand on Chain of Custody.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_mj12_chain_of_custod_f6a70c
 parent_title: Chain of Custody | The Alleged MJ 12 Documents

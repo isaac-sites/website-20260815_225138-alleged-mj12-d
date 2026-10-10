@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-majestic/
 description: Focused pages that expand on The Twelve.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_majestic_12_membersh_6364eb
 parent_title: The Twelve | The Alleged MJ 12 Documents

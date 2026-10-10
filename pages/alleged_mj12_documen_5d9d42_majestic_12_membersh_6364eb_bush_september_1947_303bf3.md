@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 07:22:08'
+last_modified_at: '2026-08-15 07:22:08'
 parent_title: Who Were the Alleged Twelve Members of MJ 12? | Majestic 12
 parent_permalink: /the-twelve/
 parent_nav_short_title: The Twelve

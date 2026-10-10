@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 01:08:39'
+last_modified_at: '2026-08-15 01:08:39'
 parent_title: Why Stanton Friedman Defended the Core MJ 12 Papers | The Alleged MJ 12 Documents
 parent_permalink: /friedman-s-case/
 parent_nav_short_title: Friedman s Case

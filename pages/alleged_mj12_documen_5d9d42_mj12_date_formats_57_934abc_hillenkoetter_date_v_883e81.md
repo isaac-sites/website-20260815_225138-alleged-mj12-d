@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-15 22:14:05'
+last_modified_at: '2026-08-15 22:14:05'
 parent_title: Was the MJ 12 Date Format Really Impossible? | Majestic 12
 parent_permalink: /date-formats/
 parent_nav_short_title: Date Formats

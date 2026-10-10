@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-mj12-date/
 description: Focused pages that expand on Date Formats.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_mj12_date_formats_57_934abc
 parent_title: Date Formats | The Alleged MJ 12 Documents
