@@ -6,7 +6,7 @@ title_full: Truman Timeline Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /alleged-mj12-documen-5d9d42-truman/
+permalink: /alleged-mj12-documen-5d9d42-truman-truman-timeline/
 description: Focused pages that expand on Truman Timeline.
 date: '2026'
 layout: default
