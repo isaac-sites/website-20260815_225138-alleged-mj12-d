@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /the-alleged-mj-12-documents/
 - /archive-anomalies/
 nav_short_title: Missing Number
-title: Why Is the Cutler Twining Register Number Missing?
+title: "Why Is the Cutler Twining Register Number Missing? (The National Archives Problems With MJ 12 | Majestic 12)"
 title_full: Why Is the Cutler Twining Register Number Missing? | Archive Anomalies
 display_title_short: Missing Number
 display_title: Missing Number
