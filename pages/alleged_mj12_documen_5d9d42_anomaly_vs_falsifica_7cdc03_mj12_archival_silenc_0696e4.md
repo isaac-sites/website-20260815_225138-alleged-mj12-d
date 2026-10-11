@@ -858,7 +858,6 @@ For MJ-12, the archival question is consequently not “Where is the one file th
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 13.<a id="endnote-13"></a>
    Source: archives.gov  
@@ -871,11 +870,9 @@ For MJ-12, the archival question is consequently not “Where is the one file th
 
 15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 16.<a id="endnote-16"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 17.<a id="endnote-17"></a>
    Source: archives.gov  
@@ -898,7 +895,6 @@ For MJ-12, the archival question is consequently not “Where is the one file th
 
 21.<a id="endnote-21"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 22.<a id="endnote-22"></a>
    Source: archives.gov  

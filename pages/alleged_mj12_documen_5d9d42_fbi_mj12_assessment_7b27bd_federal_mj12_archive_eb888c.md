@@ -955,7 +955,6 @@ That is the most precise way to understand the later federal evidence. It did no
 30.<a id="endnote-30"></a>
    Source: ns2.col2.com  
    Title: operation majestic 12  
-   Link:https://ns2.col2.com/operation-majestic-12  
 
 31.<a id="endnote-31"></a>
    Source: noufors.com  
