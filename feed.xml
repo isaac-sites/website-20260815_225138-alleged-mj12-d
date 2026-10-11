@@ -1,0 +1,29 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang | default: 'en' }}">
+  <title type="html">{{ site.title | strip_html | escape }}</title>
+  <subtitle>{{ site.description | strip_html | escape }}</subtitle>
+  <id>{{ '/' | absolute_url }}</id>
+  <link rel="self" href="{{ '/feed.xml' | absolute_url }}" type="application/atom+xml" />
+  <link rel="alternate" href="{{ '/' | absolute_url }}" type="text/html" hreflang="en" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author><name>{{ site.title | strip_html | escape }}</name></author>
+{%- assign feed_pages = site.pages | where_exp: "p", "p.permalink" | where_exp: "p", "p.title" | where_exp: "p", "p.sitemap != false" -%}
+{%- assign feed_sorted = feed_pages | sort: "last_modified_at" | reverse -%}
+{%- assign feed_count = 0 -%}
+{%- for p in feed_sorted -%}
+{%- if feed_count >= 20 %}{% break %}{% endif -%}
+{%- if p.permalink == '/404.html' or p.search_page %}{% continue %}{% endif -%}
+  <entry>
+    <title type="html">{{ p.title | strip_html | escape_once }}</title>
+    <link href="{{ p.url | absolute_url }}" rel="alternate" type="text/html" title="{{ p.title | strip_html | escape_once }}" />
+    <published>{{ p.last_modified_at | default: site.time | date_to_xmlschema }}</published>
+    <updated>{{ p.last_modified_at | default: site.time | date_to_xmlschema }}</updated>
+    <id>{{ p.url | absolute_url }}</id>
+    <summary type="html">{{ p.description | default: p.hero_summary | default: p.title | strip_html | escape_once | truncate: 300 }}</summary>
+  </entry>
+{%- assign feed_count = feed_count | plus: 1 -%}
+{%- endfor -%}
+</feed>
