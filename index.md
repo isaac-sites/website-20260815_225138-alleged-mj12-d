@@ -4575,6 +4575,46 @@ site_image_description: A desk holds photographed classified-looking pages, arch
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude="" aria-labelledby="homepage-reading-title">
+<div class="fr-section-shell">
+  <div class="fr-section-header">
+    <div class="fr-section-heading">
+      <p class="fr-section-kicker">Amazon book picks</p>
+      <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+    </div>
+    <p class="fr-intro">The shelf behind the documents — the Majestic-12 studies, the wider evidence file, and the nuclear-dimension research. Each document page carries picks tied to its own subject.</p>
+  </div>
+  <div class="fr-books-grid">
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=Top+Secret+Majic+Stanton+T+Friedman&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Top Secret/Majic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/813365-M.jpg" alt="Cover for Top Secret/Majic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Top+Secret+Majic+Stanton+T+Friedman&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a></h4>
+    <p class="fr-book-author">By Stanton T. Friedman</p>
+    <p class="fr-book-desc">The book-length study of the Majestic-12 documents that gave this site its name.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Top+Secret+Majic+Stanton+T+Friedman&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+Richard+H+Hall&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9802099-M.jpg" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');" /></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Evidence+Richard+H+Hall&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a></h4>
+    <p class="fr-book-author">By Richard H. Hall</p>
+    <p class="fr-book-desc">The NICAP compilation of reported evidence — the sober baseline the documents must answer to.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Evidence+Richard+H+Hall&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+<article class="fr-book-card">
+  <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+  <div class="fr-book-info">
+    <h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings&i=stripbooks&tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a></h4>
+    <p class="fr-book-author">By Robert Hastings</p>
+    <p class="fr-book-desc">The nuclear-facility incident research that frames the security-state context.</p>
+    <div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+and+Nukes+Robert+Hastings&i=stripbooks&tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">See on Amazon</a></div>
+  </div>
+</article>
+  </div>
 </div>
 </section>
 
+</div>
+</section>
