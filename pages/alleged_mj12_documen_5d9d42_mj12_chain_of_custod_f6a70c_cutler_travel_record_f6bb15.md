@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /the-alleged-mj-12-documents/
 - /chain-of-custody/
 nav_short_title: Cutler Abroad
-title: Could Cutler Have Issued the Memo While Abroad?
+title: "Could Cutler Have Issued the Memo While Abroad? (The Missing Chain of Custody Behind MJ 12 | The Alleged MJ 12 Documents)"
 title_full: Could Cutler Have Issued the Memo While Abroad? | Chain of Custody
 display_title_short: Cutler Abroad
 display_title: Cutler Abroad

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /the-alleged-mj-12-documents/
 - /cutler-twining/
 nav_short_title: Cutler Abroad
-title: Could Cutler Have Issued the Memo While Abroad?
+title: "Could Cutler Have Issued the Memo While Abroad? (Why the Cutler Twining Memo Remains Contested | The Alleged MJ 12 Documents)"
 title_full: Could Cutler Have Issued the Memo While Abroad? | Cutler Twining
 display_title_short: Cutler Abroad
 display_title: Cutler Abroad
