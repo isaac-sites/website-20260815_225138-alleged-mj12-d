@@ -1044,7 +1044,6 @@ That makes the marking more probative than a mere oddity, but its real lesson is
 48.<a id="endnote-48"></a>
    Source: ns2.col2.com  
    Title: operation majestic 12  
-   Link:https://ns2.col2.com/operation-majestic-12  
 
 ### Additional References
 

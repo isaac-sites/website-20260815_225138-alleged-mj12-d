@@ -948,7 +948,6 @@ For the [missing-government]({{ 'missing-records/' | relative_url }})-records qu
 25.<a id="endnote-25"></a>
    Source: ns2.col2.com  
    Title: operation majestic 12  
-   Link:https://ns2.col2.com/operation-majestic-12  
 
 26.<a id="endnote-26"></a>
    Source: col2.com  

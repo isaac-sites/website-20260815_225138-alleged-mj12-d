@@ -1050,19 +1050,15 @@ The most defensible conclusion is therefore narrower than either “the Archives
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
