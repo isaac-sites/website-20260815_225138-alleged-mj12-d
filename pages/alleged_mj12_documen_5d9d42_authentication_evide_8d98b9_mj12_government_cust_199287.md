@@ -1171,7 +1171,7 @@ An original with an ordinary, independently documented journey from creating off
 
 71.<a id="endnote-71"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 72.<a id="endnote-72"></a>
    Source: archives.gov  
