@@ -933,7 +933,7 @@ The National Archives' own formulation remains the clearest guide to the case. C
 19.<a id="endnote-19"></a>
    Source: ns2.col2.com  
    Title: operation majestic 12  
-   Link:<a href="https://ns2.col2.com/operation-majestic-12" target="_blank" rel="noopener noreferrer nofollow">https://ns2.col2.com/operation-majestic-12</a>  
+   Link:https://ns2.col2.com/operation-majestic-12  
 
 20.<a id="endnote-20"></a>
    Source: liquisearch.com  

@@ -883,7 +883,7 @@ For the MJ-12 chain-of-custody question, that distinction is decisive. The Natio
 15.<a id="endnote-15"></a>
    Source: ns2.col2.com  
    Title: operation majestic 12  
-   Link:<a href="https://ns2.col2.com/operation-majestic-12" target="_blank" rel="noopener noreferrer nofollow">https://ns2.col2.com/operation-majestic-12</a>  
+   Link:https://ns2.col2.com/operation-majestic-12  
 
 17.<a id="endnote-17"></a>
    Source: noufors.com  

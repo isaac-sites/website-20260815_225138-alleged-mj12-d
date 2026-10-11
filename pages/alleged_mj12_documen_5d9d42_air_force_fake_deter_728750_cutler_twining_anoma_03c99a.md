@@ -979,7 +979,7 @@ That is the Cutler-Twining memorandum's central importance to the MJ-12 controve
 33.<a id="endnote-33"></a>
    Source: ns2.col2.com  
    Title: operation majestic 12  
-   Link:<a href="https://ns2.col2.com/operation-majestic-12" target="_blank" rel="noopener noreferrer nofollow">https://ns2.col2.com/operation-majestic-12</a>  
+   Link:https://ns2.col2.com/operation-majestic-12  
 
 34.<a id="endnote-34"></a>
    Source: scribd.com  

@@ -1326,7 +1326,7 @@ The distinction is therefore not “official explanation versus UFO testimony”
 112.<a id="endnote-112"></a>
    Source: ns2.col2.com  
    Title: operation majestic 12  
-   Link:<a href="https://ns2.col2.com/operation-majestic-12" target="_blank" rel="noopener noreferrer nofollow">https://ns2.col2.com/operation-majestic-12</a>  
+   Link:https://ns2.col2.com/operation-majestic-12  
 
 113.<a id="endnote-113"></a>
    Source: smithsonianmag.com  
